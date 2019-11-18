@@ -1,0 +1,61 @@
+.less_padding{padding-top: 40px!important;padding-bottom: 0!important;margin-bottom: 0!important}
+.pb-0{padding-bottom: 0!important}
+.p-0{padding:0!important;}
+.row.flex{display: flex;flex-wrap: wrap;}
+.app_development section{padding-bottom: 20px !important}
+.app_development .ser_sec2{padding-bottom: 0!important}
+.app_development .app_tabs{height: auto!important;}
+/*.android_app_development section{padding-bottom: 0!important}*/
+.heading_decorate:before, .heading_decorate:after{width: 0!important}
+.list_3_col li{margin: 10px 0!important}
+.mobile_app_development_featured .featuredInnerContent .talk_to_us_btn:hover{background:#fff!important;color: #6786f8!important}
+.app_development .call_btn{font-size: 1rem!important;line-height: 3rem!important;}
+/*.newContact span.wpcf7-not-valid-tip{position: absolute!important;bottom: 0!important;right: -59px!important;z-index: 9!important;width: 300px!important;}*/
+/*.Cform .wpcf7-form input{margin-bottom: 30px!important}*/
+.Cform .wpcf7-form-control-wrap.captcha-3 span.wpcf7-not-valid-tip{bottom: -20px!important;}
+.queryForm_parent form .user_file span.wpcf7-not-valid-tip{bottom: -40px!important}
+.ser_sec2 #nav2 li a.active{text-align: center!important;}
+/*.android_app_development section{padding-bottom: 0!important}*/
+.mobile_app_btm1, .mobile_app_btm2, .mobile_app_btm3{padding-bottom: 0!important;padding-top: 20px!important;}
+.phonegap_development section{padding-bottom: 20px !important; padding-top:20px!important }
+.call_of_action {margin-bottom: 0!important}
+.app-store-btn li{cursor: auto!important;}
+.ser_sec2 li,.ser_sec3 li{text-align: left!important;}
+.list_2_col li:nth-child(2n){margin-left: 0!important}
+.webapp_development .checklist>li{margin-top: 2%!important}
+header{z-index: 999999!important}
+.makesusstandCount .col-md-6:nth-child(even) h3, .makesusstandCount .col-md-6:nth-child(even) h4, .makesusstandCount .col-md-6:nth-child(even) p {text-align: right!important;}
+.solution-template .navbar-right>li:last-child ul.dropdown-menu{width: auto!important;}
+.main-heading{z-index:99!important}
+.developmentteamom .tophead h2{text-transform: inherit!important;font-size: 23px!important}
+.hiremagentoourprocess .subheading h3{text-transform: lowercase!important;font-size: 23px!important}
+.developmentteamom .col-md-3 img{min-height: auto!important}
+.imagescrollbox{height: auto!important;}
+.php_development .ser_sec4 .ser_one{min-height: 100px!important;margin-top: 20px!important;}
+.portfolio_view_section img{width: 100%!important}
+.ser_sec3 .ser_one{display: flex;flex-wrap: wrap;}
+.laravel-services .service-inner-2{min-height: auto!important}
+.laravel .ser_sec5{display: flex;flex-wrap: wrap;}
+.laravel-benefits .service-inner-3{min-height: auto}
+.dedicatedmagentodev .topsection h2,.makesusstandCount .topcount h2,.hiringmagentodev h2,.hiremagentoourprocess .subheading span{text-transform: inherit!important;}
+.topcount,.contactcallaction  {width:100%;}
+
+@media only screen and (max-width: 1024px) and (min-width: 768px){
+	.makesusstandCount .mus{min-height: 200px}
+	.developmentteamom .col-md-3 img{width: auto!important;min-height: auto!important}
+	.developmentteamom .chs{min-height: 220px!important}
+	.php_development .ser_sec4 .ser_one{min-height: 180px!important} 
+}
+
+@media only screen and (max-width: 767px) and (min-width: 320px){
+	.developmentteamom .col-md-3 img{width: auto!important;min-height: auto!important}
+}
+
+/*For ie*/
+@media all and (-ms-high-contrast:none){
+	.javaexpertise span{font-size: 12px!important}
+	.fixed-ie-header{position: fixed!important;top: 0!important;left: 0;width: 100%!important}
+	.lasteven .our_process_content ul li{margin-top: 0!important;}
+	.hiremagentoourprocess [class^="col-"] h3, .hiremagentoourprocess [class^="col-"] h4{font-size: 15px!important}
+	.hiremagentoourprocess .subheading span{line-height: 33px!important}
+}    

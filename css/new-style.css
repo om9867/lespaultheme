@@ -1,0 +1,432 @@
+/*********** Magento 2 Developer ************/
+.ser_sec2 hgroup{text-align:center;}
+/*ul.list_type_5 li{min-height:80px;}*/
+.ser_sec2 hgroup >p{margin:0 0 20px;font-weight:16px;line-height:22px;}
+/*.icon-text-box{height:300px;}*/
+.ser_sec2 h4.subTitle{margin:10px 0 30px;text-align:center;font-size:24px;line-height:30px;color:#414042;font-weight:400;}
+.magento_development_services_featured{position:relative;min-height:400px;background-size:cover!important;padding:80px 0 80px!important;}
+.magento_development_services_featured .cols_left{float:right;margin:40px 0 0;}
+.magento_development_services_featured .left_part{padding-right:25%;}
+.magento_development_services_featured .right_part >img{float:right;}
+.magento_development_services_featured h1{font-size:50px;line-height:60px;color:#fff;font-weight:400;text-transform:uppercase;margin:0 0 10px}
+.magento_development_services_featured h1 >span{font-weight:800;}
+.magento_development_services_featured p{font-size:18px;line-height:28px;letter-spacing:0;color:#fff;font-weight:400;margin:0 0 0;}
+.magento_development_services_featured .btn_ui{font-size:18px;line-height:normal;letter-spacing:0;color:#fff;font-weight:600;text-transform:uppercase;text-decoration:none;padding:17px 20px;border:1px solid #fff;text-align:center;display:inline-block;margin:26px 12px 0 0;}
+.magento_development_services_featured .btn_ui.active{background:#fff;color:#000;}
+/************* Magento APP Development ***************/
+.header_section_new h2,.header_section_new >p{text-align:center!important;}
+.Reliable_Magento_Extension .header_section h2,.Reliable_Magento_Extension .header_section h3,.Reliable_Magento_Extension .header_section p{text-align:center!important;}
+/************** PSD to Magento Page Style Here *****************/
+.psdMagento_featured_section{position:relative;min-height:400px;background-size:cover!important;padding:80px 0 80px;}
+.psdMagento_featured_section h1{font-size:50px;line-height:normal;letter-spacing:0;color:#fff;font-weight:700;text-transform:uppercase;}
+.psdMagento_featured_section p{font-size:14px;line-height:25px;letter-spacing:0;color:#fff;letter-spacing:0;font-weight:400;margin:0 0 20px;}
+.psdMagento_featured_section .talk_to_us_btn{font-size:25px;line-height:25px;color:#fff;letter-spacing:0;font-weight:300;text-transform:uppercase;padding:14px 15px;border:1px solid #fff;text-align:center;width:100%;max-width:195px;text-decoration:none;display:inline-block;margin:20px 0 0;}
+.psdMagento_featured_content{position:relative;width:100%;max-width:1010px;margin:0 auto;z-index:9;}
+.psdMagento_featured_section .featuredImg_logo{width:100%;max-width:370px;margin:0 0 10px;}
+.psdMagento_featured_option ul{margin:-44px 0 0;padding:0;list-style-type:none;text-align:center;}
+.psdMagento_featured_option ul li{display:inline-block;vertical-align:top;background:#fff;padding:20px 25px;margin:0 10px;border:2px solid #fff;box-shadow:0 3px 6px #29292936;font-size:16px;color:#383838;line-height:23px;max-width:270px;width:100%;text-transform:uppercase;font-weight:700;}
+.psdMagento_contents{padding:60px 0 40px;position:relative;}
+.psdMagento_contents h2{line-height:1.4;margin:0 0 20px;font-size:20px;color:#414042;font-weight:600;}
+.psdMagento_contents p{color:#1e1d1f;font-size:15px;line-height:24px;margin:0 0 15px;font-weight:500;}
+.psdMagento_our_services_offerings{position:relative;padding:60px 0 30px;border-top:1px solid #dedada;overflow:hidden;}
+.psdMagento_our_services_offerings hgroup{margin:0 0 15px;width:100%;text-align:center;position:relative;z-index:9;}
+.psdMagento_our_services_offerings hgroup h2{font-size:24px;text-align:center;font-weight:normal;color:#000;text-transform:capitalize;margin:0 0 20px;display:inline-block;width:100%;}
+.psdMagento_our_services_offerings hgroup p{font-size:15px;line-height:22px;color:#1e1d1f;font-weight:400;}
+.psdMagento_our_services_offerings ul{margin:30px 0 0;padding:0;list-style:none;}
+.psdMagento_our_services_offerings ul li{width:100%;max-width:31.5%;float:left;vertical-align:top;position:relative;padding:15px;margin:0 0 20px;}
+.psdMagento_our_services_offerings ul li:nth-child(3n-1){margin-left:2.7%;margin-right:2.8%;}
+.psdMagento_our_services_offerings ul li h4{margin:0 0 5px;font-size:15px;color:#ff5200;font-weight:600;letter-spacing:0;text-transform:uppercase;line-height:22px;}
+.psdMagento_our_services_offerings ul li p{font-size:15px;line-height:22px;color:#1e1d1f;font-weight:400;margin:0 0 0;}
+.psdMagento_benefits{position:relative;padding:60px 0 30px;border-top:1px solid #dedada;overflow:hidden;}
+.psdMagento_benefits hgroup{margin:0 0 15px;width:100%;text-align:center;position:relative;z-index:9;}
+.psdMagento_benefits hgroup h2{font-size:24px;text-align:center;font-weight:normal;color:#000;text-transform:capitalize;margin:0 0 20px;display:inline-block;width:100%;}
+.psdMagento_benefits ul{margin:0;padding:0;list-style:none;}
+.psdMagento_benefits ul li{float:left;width:100%;max-width:24%;padding:20px;position:relative;margin:5px 5px 25px;border:1px solid #e6e6e6;min-height:160px;-webkit-transition:0.4s;-moz-transition:0.4s;transition:0.4s;transform:scale(1);background:#fff;}
+.psdMagento_benefits ul li:hover{-webkit-transition:0.4s;-moz-transition:0.4s;transition:0.4s;transform:scale(1.05);box-shadow:0 0px 40px 1px #d8d6d6;}
+.psdMagento_benefits ul li h4{margin:0 0 10px;color:#000;letter-spacing:0;font-weight:600;font-size:16px;}
+.psdMagento_benefits ul li p{font-size:14px;line-height:20px;color:#565656;font-weight:400;margin:0 0 0;}
+.psdMagento_whyChoose_us{position:relative;padding:60px 0 30px;border-top:1px solid #eae6e6;overflow:hidden;}
+.psdMagento_whyChoose_us_content hgroup{margin:0 0 15px;width:100%;text-align:center;position:relative;z-index:9;}
+.psdMagento_whyChoose_us_content hgroup h2{font-size:24px;text-align:center;font-weight:normal;color:#000;text-transform:capitalize;margin:0 0 30px;display:inline-block;width:100%;}
+.psdMagento_whyChoose_us_content ul{margin:40px 0 0;padding:0;list-style:none;counter-reset:section;}
+.psdMagento_whyChoose_us_content ul li{border-left:3px solid #FF5200;margin:0 0 10px;box-shadow:0px 0px 0px 1px #d8d7d7;padding:15px;width:48%;float:left;-webkit-transition:0.4s;-moz-transition:0.4s;transition:0.4s;position:relative;}
+.psdMagento_whyChoose_us_content ul li::before{counter-increment:section;content:counter(section) " ";font-weight:700;font-size:20px;position:absolute;top:0;left:0;width:40px;height:100%;text-align:center;background:bisque;padding:13px 0;}
+.psdMagento_whyChoose_us_content ul li .content{color:#000;font-size:15px;line-height:22px;margin:0 0 4px;padding-left:41px;}
+.psdMagento_whyChoose_us_content ul li:nth-child(2n-1){margin-right:4%;}
+@media (min-width:1200px){.container{width:1140px;}
+.psdMagento_featured_section .right_part{padding-right:22%;}
+}
+@media (max-width:1199px){.psdMagento_benefits ul li{max-width:23.9%;min-height:190px;}
+}
+@media (max-width:991px){.psdMagento_benefits ul li{max-width:31.9%;margin:5px 5px 5px;}
+.psdMagento_featured_section{padding:50px 0 50px;}
+.psdMagento_featured_section h1{font-size:36px;margin-top:0;}
+.psdMagento_featured_section p{margin:0 0 15px;}
+.psdMagento_featured_section .talk_to_us_btn{font-size:17px;text-transform:uppercase;padding:8px 15px;max-width:150px;margin:10px 0 0;}
+}
+@media (max-width:767px){.psdMagento_featured_section .left_part{width:100%;text-align:center;}
+.psdMagento_featured_section .left_part >img{width:100%;margin:0 auto;max-width:200px;}
+.psdMagento_featured_section .right_part{text-align:center;padding-top:20px;}
+.psdMagento_featured_section{min-height:290px;padding:50px 0 50px;}
+.psdMagento_featured_section h1{font-size:28px;}
+.psdMagento_contents{padding:40px 0 30px;}
+.psdMagento_our_services_offerings ul li{max-width:350px;float:none;margin:0 auto 20px;padding:0;}
+.psdMagento_our_services_offerings ul li:nth-child(3n-1){margin-left:auto;margin-right:auto;}
+.psdMagento_benefits ul li{max-width:48.4%;margin:5px 0.8% 5px;}
+.psdMagento_whyChoose_us_content ul li:nth-child(2n-1){margin-right:auto;}
+.psdMagento_whyChoose_us_content ul li{width:100%;float:none;margin:0 0 30px;}
+}
+@media (max-width:568px){.psdMagento_benefits ul li{max-width:280px;margin:0 auto 20px;float:none;min-height:initial;}
+}
+@media (max-width:480px){.psdMagento_contents{padding:40px 0 60px;border-top:1px solid #e6e6e6;}
+}
+/************** Magento App Development Featured **************/
+.magentoAPP_development_services_featured{position:relative;min-height:400px;background-size:cover!important;padding:100px 0 90px!important;}
+.magentoAPP_development_services_featured h1{font-size:50px;line-height:52px;color:#ff6600;font-weight:400;text-transform:uppercase;margin:0 0 18px}
+.magentoAPP_development_services_featured h1 >span{font-weight:800;}
+.magentoAPP_development_services_featured p{font-size:16px;line-height:25px;letter-spacing:0;color:#fff;font-weight:400;margin:0 0 0;}
+.magentoAPP_development_services_featured .talk_to_us_btn{font-size:25px;line-height:normal;letter-spacing:0;color:#fff;font-weight:300;text-transform:uppercase;text-decoration:none;padding:10px 20px;border:1px solid #fff;text-align:center;display:inline-block;margin:39px 12px 0 0;width:100%;max-width:195px;}
+.magentoAppInnerContent{width:100%;max-width:504px;float:left;}
+@media (max-width:767px){.magentoAPP_development_services_featured h1{font-size:36px;line-height:40px;margin:0 0 10px;}
+.magentoAppInnerContent{text-align:center;}
+.magentoAPP_development_services_featured .talk_to_us_btn{font-size:18px;padding:10px 20px;margin:25px 12px 0 0;}
+}
+/************** Magento Extension Development **************/
+.magentoExtension_development_featured{position:relative;min-height:400px;background-size:cover!important;padding:84px 0 84px!important;}
+.magentoExtension_development_featured h1{font-size:40px;line-height:48px;color:#fff;font-weight:300;text-transform:uppercase;margin:0 0 18px}
+.magentoExtension_development_featured h1 >span{font-weight:800;}
+.magentoExtension_development_featured p{font-size:20px;line-height:30px;letter-spacing:0;color:#fff;font-weight:400;margin:0 0 0;}
+.magentoExtension_development_featured .talk_to_us_btn{font-size:22px;line-height:normal;letter-spacing:0;color:#fff;font-weight:400;text-transform:uppercase;text-decoration:none;padding:17px 15px;border:0 solid #fff;text-align:center;display:inline-block;margin:35px 12px 0 0;width:100%;background:#000000;max-width:215px;}
+@media (min-width:1200px){.magentoExtensionInnerContent{padding-left:12%;}
+}
+@media (max-width:991px){.magentoExtension_development_featured h1{font-size:34px;line-height:42px;margin:0 0 10px;}
+.magentoExtension_development_featured p{font-size:16px;line-height:22px;}
+.magentoExtension_development_featured .talk_to_us_btn{font-size:18px;padding:12px 15px;margin:25px 12px 0 0;max-width:175px;}
+}
+@media (max-width:767px){.magentoExtension_development_featured img{width:200px;margin:0 auto;}
+.magentoExtensionInnerContent{text-align:center;padding-top:30px;}
+.magentoExtension_development_featured h1{font-size:30px;line-height:38px;}
+.magentoExtension_development_featured{padding:50px 0 50px!important;}
+}
+/************* Hire Magento Developers ***************/
+.hireMagento_featured_section{position:relative;min-height:400px;background-size:cover!important;padding:80px 0 80px;}
+.hireMagento_featured_section .cols_left{float:right;}
+.hireMagento_featured_section h1{font-size:35px;line-height:normal;letter-spacing:0;color:#fff;font-weight:700;text-transform:capitalize;}
+.hireMagento_featured_section p{font-size:18px;line-height:28px;letter-spacing:0;color:#fff;letter-spacing:0;font-weight:500;margin:0 0 20px;}
+.hireMagento_featured_section .talk_to_us_btn{font-size:20px;line-height:normal;color:#fff;letter-spacing:0;font-weight:700;text-transform:capitalize;text-decoration:none;display:inline-block;margin:24px 0 0;padding-bottom:3px;border-bottom:1px solid #fff;}
+.hireMagento_featured_content{position:relative;width:100%;max-width:1010px;margin:0 auto;z-index:9;}
+.hireMagento_featured_section .featuredImg_logo{width:100%;max-width:370px;margin:0 0 10px;}
+.hireMagento_featured_option ul{margin:-44px 0 0;padding:0;list-style-type:none;text-align:center;}
+.hireMagento_featured_option ul li{display:inline-block;vertical-align:top;background:#fff;padding:20px 25px;margin:0 10px;border:2px solid #fff;box-shadow:0 3px 6px #29292936;font-size:16px;color:#383838;line-height:23px;max-width:270px;width:100%;text-transform:uppercase;font-weight:700;}
+.hireMagento_contents{padding:60px 0 40px;position:relative;}
+.hireMagento_contents h2{line-height:1.4;margin:0 0 20px;font-size:20px;color:#414042;font-weight:600;}
+.hireMagento_contents p{color:#1e1d1f;font-size:15px;line-height:24px;margin:0 0 15px;font-weight:500;}
+.hireMagento_our_services_offerings{position:relative;padding:60px 0 30px;border-top:1px solid #dedada;overflow:hidden;}
+.hireMagento_our_services_offerings hgroup{margin:0 0 15px;width:100%;text-align:center;position:relative;z-index:9;}
+.hireMagento_our_services_offerings hgroup h2{font-size:24px;text-align:center;font-weight:normal;color:#000;text-transform:capitalize;margin:0 0 20px;display:inline-block;width:100%;}
+.hireMagento_our_services_offerings hgroup p{font-size:15px;line-height:22px;color:#1e1d1f;font-weight:400;}
+.hireMagento_our_services_offerings ul{margin:30px 0 0;padding:0;list-style:none;}
+.hireMagento_our_services_offerings ul li{width:100%;max-width:31.5%;float:left;vertical-align:top;position:relative;padding:15px;margin:0 0 20px;}
+.hireMagento_our_services_offerings ul li:nth-child(3n-1){margin-left:2.7%;margin-right:2.8%;}
+.hireMagento_our_services_offerings ul li h4{margin:0 0 5px;font-size:15px;color:#ff5200;font-weight:600;letter-spacing:0;text-transform:uppercase;line-height:22px;}
+.hireMagento_our_services_offerings ul li p{font-size:15px;line-height:22px;color:#1e1d1f;font-weight:400;margin:0 0 0;}
+.hireMagento_benefits{position:relative;padding:60px 0 30px;border-top:1px solid #dedada;overflow:hidden;}
+.hireMagento_benefits hgroup{margin:0 0 15px;width:100%;text-align:center;position:relative;z-index:9;}
+.hireMagento_benefits hgroup h2{font-size:24px;text-align:center;font-weight:normal;color:#000;text-transform:capitalize;margin:0 0 20px;display:inline-block;width:100%;}
+.hireMagento_benefits hgroup p{font-size:16px;line-height:22px;}
+.hireMagento_benefits ul{margin:30px 0 0;padding:0;list-style:none;}
+.hireMagento_benefits ul li{float:left;width:100%;max-width:32.4%;padding:20px;position:relative;margin:5px 5px 25px;border:1px solid #e6e6e6;min-height:180px;-webkit-transition:0.4s;-moz-transition:0.4s;transition:0.4s;transform:scale(1);background:#fff;}
+.hireMagento_benefits ul li:hover{-webkit-transition:0.4s;-moz-transition:0.4s;transition:0.4s;transform:scale(1.05);box-shadow:0 0px 40px 1px #d8d6d6;}
+.hireMagento_benefits ul li h4{margin:0 0 10px;color:#000;letter-spacing:0;font-weight:600;font-size:16px;}
+.hireMagento_benefits ul li p{font-size:14px;line-height:20px;color:#565656;font-weight:400;margin:0 0 0;}
+.hireMagento_whyChoose_us{position:relative;padding:60px 0 30px;border-top:1px solid #eae6e6;overflow:hidden;}
+.hireMagento_whyChoose_us_content hgroup{margin:0 0 15px;width:100%;text-align:center;position:relative;z-index:9;}
+.hireMagento_whyChoose_us_content hgroup h2{font-size:24px;text-align:center;font-weight:normal;color:#000;text-transform:capitalize;margin:0 0 20px;display:inline-block;width:100%;}
+.hireMagento_whyChoose_us_content hgroup p{font-size:16px;line-height:22px;}
+.hireMagento_whyChoose_us_content ul{margin:40px 0 0;padding:0;list-style:none;counter-reset:section;}
+.hireMagento_whyChoose_us_content ul li{border-left:3px solid #FF5200;margin:0 0 10px;box-shadow:0px 0px 0px 1px #d8d7d7;padding:15px;width:48%;float:left;-webkit-transition:0.4s;-moz-transition:0.4s;transition:0.4s;position:relative;}
+.hireMagento_whyChoose_us_content ul li::before{counter-increment:section;content:counter(section) " ";font-weight:700;font-size:20px;position:absolute;top:0;left:0;width:40px;height:100%;text-align:center;background:bisque;padding:13px 0;}
+.hireMagento_whyChoose_us_content ul li .content{color:#000;font-size:15px;line-height:22px;margin:0 0 4px;padding-left:41px;}
+.hireMagento_whyChoose_us_content ul li:nth-child(2n-1){margin-right:4%;}
+@media (min-width:1200px){.container{width:1140px;}
+.hireMagento_featured_section .right_part{padding-right:0;}
+.hireMagento_featured_section .right_part >img{margin-right:22%;float:right;}
+.hireMagento_featured_section .left_part{padding-right:11%;}
+}
+@media (max-width:1199px){.hireMagento_benefits ul li{max-width:32.2%;min-height:190px;}
+.hireMagento_our_services_offerings ul li{min-height:170px;}
+}
+@media (max-width:991px){.hireMagento_benefits ul li{max-width:31.9%;margin:5px 5px 5px;min-height:270px;}
+.hireMagento_featured_section{padding:50px 0 50px;}
+.hireMagento_featured_section h1{font-size:36px;margin-top:0;}
+.hireMagento_featured_section p{margin:0 0 15px;}
+.hireMagento_featured_section .talk_to_us_btn{font-size:17px;}
+}
+@media (max-width:767px){.hireMagento_featured_section .cols_left{float:left;}
+.hireMagento_featured_section .left_part{width:100%;text-align:center;}
+.hireMagento_featured_section .left_part >img{width:100%;margin:0 auto;max-width:200px;}
+.hireMagento_featured_section .right_part{text-align:center;padding-top:0;}
+.hireMagento_featured_section .right_part img{width:180px;margin:0 auto 30px;}
+.hireMagento_featured_section p{font-size:16px;line-height:22px;}
+.hireMagento_featured_section{min-height:290px;padding:50px 0 50px;}
+.hireMagento_featured_section h1{font-size:28px;}
+.hireMagento_contents{padding:40px 0 30px;}
+.hireMagento_our_services_offerings ul li{max-width:350px;float:none;margin:0 auto 30px;padding:0;min-height:inherit;}
+.hireMagento_our_services_offerings ul li:nth-child(3n-1){margin-left:auto;margin-right:auto;}
+.hireMagento_benefits ul li{max-width:48.4%;margin:5px 0.8% 5px;min-height:220px;}
+.hireMagento_whyChoose_us_content ul li:nth-child(2n-1){margin-right:auto;}
+.hireMagento_whyChoose_us_content ul li{width:100%;float:none;margin:0 0 30px;}
+}
+@media (max-width:568px){.hireMagento_benefits ul li{max-width:390px;margin:0 auto 20px;float:none;min-height:initial;}
+}
+@media (max-width:480px){.hireMagento_contents{padding:40px 0 60px;border-top:1px solid #e6e6e6;}
+}
+/************** Services That Drive Digital Transformation ***************/
+.whatWeDo_section{position:relative;padding:58px 0 17px;}
+.whatWeDo_section h1{font-size:36px;line-height:normal;letter-spacing:0;color:#1a1a1a;font-weight:700;margin:0 0 10px;}
+.whatWeDo_section h5{font-size:22px;line-height:30px;margin:0 0 18px;letter-spacing:0;color:#f1632a;font-weight:400;}
+.whatWeDo_section p{font-size:1.125rem;letter-spacing:0;margin:0 0 0;color:#171717;}
+.services_section{position:relative;padding:20px 0 0;}
+.services_section .repeater_list_parent{width:100%;max-width:100%;position:relative;}
+.services_section .repeater_list_parent .repeat_list{float:left;position:relative;padding:0 15px 20px;width:100%;max-width:228px;min-height:initial;}
+.services_section .repeater_list_parent .wideWidth{max-width:310px;}
+.services_section .repeater_list_parent .repeat_list h3{font-size:22px;line-height:26px;color:#fe520b;font-weight:400;letter-spacing:0.15px;margin:16px 0 20px;}
+.services_section .repeater_list_parent .repeat_list h3 a{text-decoration:none;color:#fe520b;}
+.services_section .repeater_list_parent .repeat_list h3 a:hover{opacity:0.8;}
+.services_section .repeater_list_parent .repeat_list ul{margin:0;padding:0;list-style:none;}
+.services_section .repeater_list_parent .repeat_list ul li{display:inline-block;width:100%;font-size:15px;line-height:normal;letter-spacing:0.15px;color:#171717;font-weight:400;text-transform:capitalize;margin:0 0 11px;background:url(../images/li_bullets_icon.png) no-repeat 0 3px;padding-left:22px;}
+.services_section .repeater_list_parent .repeat_list ul li a{text-decoration:none;color:#171717;}
+.services_section .repeater_list_parent .repeat_list ul li:hover a{color:#fe520b;}
+.services_section .repeater_list_parent .doubleList ul li{width:50%;float:left;}
+.other_services_links{position:relative;padding:0 0 0;}
+.other_services_links hgroup{font-size:30px;line-height:normal;letter-spacing:0;color:#1a1a1a;font-weight:400;margin:0 0 30px;text-align:center;padding:20px 0;}
+.other_services_links .repeaterParent{position:relative;display:inline-block;width:100%;}
+.repeaterParent .repeater_list{display:table;width:100%;padding:13px 0;height:125px;border-top:1px solid #e2e2e2;}
+.repeaterParent .repeater_list .title_area,.repeaterParent .repeater_list .multi_links{display:table-cell;vertical-align:middle;}
+.repeaterParent .repeater_list .title_area{width:350px;padding-right:60px;position:relative;}
+.repeaterParent .repeater_list .title_area:before,.repeaterParent .repeater_list .title_area:after{content:'';position:absolute;top:0;right:0;}
+.repeaterParent .repeater_list .title_area:before{width:1px;height:96px;background:#d2d2d2;transform:rotate(30deg);right:30px;}
+.repeaterParent .repeater_list .title_area:after{width:6px;height:28px;background:#f26822;transform:rotate(30deg);right:28px;top:35px;}
+.repeaterParent .repeater_list .title_area h3,.repeaterParent .repeater_list .title_area h3 a{font-size:22px;line-height:normal;letter-spacing:0.15px;color:#1d1d1d;font-weight:400;text-decoration:none;text-transform:uppercase;margin:0 0 0;}
+.repeaterParent .repeater_list .title_area h3 a:hover{color:#f26822;}
+.repeaterParent .repeater_list .multi_links{padding-left:38px;}
+.industryes-block h4{font-size:16px;}
+.repeaterParent .repeater_list .multi_links a, .repeaterParent .repeater_list .multi_links p{float:left;font-size:16px;line-height:1.5;letter-spacing:0.15px;color:#f26822;font-weight:400;text-decoration:none;margin-right:27px;margin-bottom:5px;position:relative;display:inline-block;}
+.repeaterParent .repeater_list .multi_links > p{display:inline-block;margin-top:0;margin-bottom:0;}
+.repeaterParent .repeater_list .multi_links > p:after,.repeaterParent .repeater_list .multi_links > a:after{background:none repeat scroll 0 0 transparent;bottom:-2px;content:"";display:block;height:2px;left:50%;position:absolute;background:#f26822;transition:width 0.3s ease 0s, left 0.3s ease 0s;width:0;}
+/* .repeaterParent .repeater_list .multi_links > p:hover:after, */
+.repeaterParent .repeater_list .multi_links > a:hover:after{width:100%;left:0;}
+.CTA_text_content >p{font-weight:500;font-size:22px!important;}
+.callToAction{position:relative;padding:40px 0;background-size:cover!important;background-attachment:fixed!important;overflow:hidden;background-color:#ff5514!important;background-blend-mode:multiply!important;}
+.callToAction:before{content:'';position:absolute;top:0;left:0;width:100%;height:100%;background:rgba(19, 19, 19, 0.8);}
+.callToAction h2{font-size:38px;line-height:normal;letter-spacing:0;color:#fff;font-weight:600;margin:0 0 10px;}
+.callToAction p{margin:10px 0 0;font-size:20px;line-height:30px;letter-spacing:0;color:#fff !important;font-weight:300;}
+.callToAction .cta_btn{font-size:22px;line-height:normal;letter-spacing:0;color:#051c22;display:inline-block;font-weight:400;margin:60px 0 0;border:1px solid #ffffff;text-transform:uppercase;padding:9px 15px;width:100%;max-width:195px;text-align:center;background:#ffffff;text-decoration:none;border-radius:25px;transition:0.5s;}
+.callToAction .cta_btn:hover{background:#ff5200;color:#fff;border-color:#ff5200;}
+/************** Query Form Style Here ****************/
+.queryForm_section{padding:50px 0;background:#f1f1f1;position:relative;border-top:1px solid #eee;}
+.queryForm_section .form_parent_div{width:100%;max-width:800px;margin:0 auto;position:relative;border:1px solid #efefef;overflow:hidden;background:#fff;box-shadow:0 0 70px #d6d6d6;}
+.queryForm_section .form_parent_div .cols_left,.queryForm_section .form_parent_div .cols_right{min-height:500px;}
+.queryForm_section .form_parent_div .cols_left{background:#1d1d1d;}
+.queryForm_section .form_parent_div .form_sidebar{padding-top:25px;padding-bottom:25px;}
+.queryForm_section .form_parent_div .form_sidebar h3{margin:0 0 30px;color:#e8e8e8;font-size:32px;font-weight:300;line-height:34px;position:relative;letter-spacing:-0.3px;}
+.queryForm_section .form_parent_div .form_sidebar h3:after{content:'';position:absolute;bottom:-16px;left:0;width:60px;height:2px;background:#e8e8e8;}
+.queryForm_section .form_parent_div .form_sidebar p{margin:0 0 10px;font-size:15px;color:#c1bcbc;line-height:22px;}
+.queryForm_section .form_parent_div .form_sidebar p.tagline{font-style:italic;font-weight:500;color:#ffffff;margin-top:30px;}
+.queryForm_section .form_parent_div .form_sidebar ul{margin:0;padding:0;list-style:none;}
+.queryForm_section .form_parent_div .form_sidebar ul li{margin:0 0 0;font-size:15px;color:#c1bcbc;line-height:22px;background:url(../images/bulletIcon.png) 0 6px no-repeat;padding-left:21px;}
+.queryForm_section .form_area{padding:25px 10px;position:relative;}
+.queryForm_section .form_area form .form-group{position:relative;width:48%;float:left;margin:0 0 15px;}
+.queryForm_section .form_area form .form-group.message_Field,.queryForm_section .form_area form .form-group.captcha_field,.queryForm_section .form_area form .form-group.choose_field{width:100%;margin-left:auto!important;}
+.queryForm_section .form_area form .form-group:nth-child(2n-1){margin-left:4%;}
+.queryForm_section .form_area form .form-group input[type="text"],.queryForm_section .form_area form .form-group input[type="number"],.queryForm_section .form_area form .form-group input[type="tel"],.queryForm_section .form_area form .form-group input[type="password"],.queryForm_section .form_area form .form-group input[type="email"]{outline:0;box-shadow:none;border-radius:0;border:0;border-bottom:2px solid #dadada;padding:0;width:100%;}
+.queryForm_section .form_area form .form-group textarea{outline:0;box-shadow:none;border-radius:0;border:0;border-bottom:2px solid #dadada;padding:0;height:100px;}
+.queryForm_section .form_area form .form-group input[type="file"]{border:0;background:transparent;box-shadow:none;padding:0;outline:0;}
+.queryForm_section .form_area form .sednButton input[type="submit"]{background:#f26322;color:#fff!important;border-radius:25px;padding:8px 15px 9px;transition:0.3s;border:0;box-shadow:none;text-shadow:none;font-size:18px;font-weight:500;text-transform:uppercase;top:0;display:inline-block;height:auto;text-align:center;width:100%;max-width:130px;margin:20px 0 0;}
+.queryForm_section .form_area form .form-group span.wpcf7-not-valid-tip{position:absolute;width:170px;font-size:12px;top:0;font-weight:400;color:red;}
+/*********** Thankyou Page Style Here ************/
+.thankyou_message_section{padding:60px 0;background:#fff;border-top:1px solid #e1e1e1;position:relative;}
+.innerContent_thankyouPage{position:relative;width:100%;max-width:100%;text-align:center;}
+.innerContent_thankyouPage h3{position:relative;margin:0 0 25px;font-weight:300;color:#333;padding-bottom:0;text-transform:capitalize;font-size:38px;text-align:center;line-height:normal;}
+.innerContent_thankyouPage h3 >img{width:75px;margin-top:-4px;display:inline-block;margin-right:5px;}
+.innerContent_thankyouPage p{margin:0 0 15px;font-size:18px;font-weight:300;color:#333;}
+.innerContent_thankyouPage .tagline{font-weight:600;color:#333;font-size:18px;line-height:normal;margin:29px 0 23px;}
+.innerContent_thankyouPage ul{padding:0;margin:11px 0 0;text-align:center;list-style:none;font-size:0;}
+.innerContent_thankyouPage ul li{display:inline-block;position:relative;font-size:18px;font-weight:400;color:#333;border-right:1px solid #9d9d9d;margin:0 0px 12px;padding:0 20px;}
+.innerContent_thankyouPage ul li:last-child{border-right:0;}
+.innerContent_thankyouPage .view_portfolio_btn{background:#ff3900;color:#ffffff;border-radius:25px;text-decoration:none;font-weight:700;text-transform:uppercase;letter-spacing:0.40px;font-size:16px;padding:6px 15px;line-height:30px;display:block;width:100%;max-width:192px;text-align:center;overflow:hidden;position:relative;margin:20px auto 0;border:2px solid #ff3900;transition:0.3s;}
+.innerContent_thankyouPage .view_portfolio_btn:hover{transition:0.3s;color:#ff3900;background:transparent;}
+.innerContent_thankyouPage img{margin:25px auto 0;display:block;}
+@media (min-width:1200px){.services_section .repeater_list_parent .wideWidth{max-width:294px;}
+.services_section .repeater_list_parent .doubleList{max-width:390px;}
+}
+@media (max-width:1199px){.services_section .repeater_list_parent .repeat_list h3{font-size:18px;line-height:22px;}
+.services_section .repeater_list_parent .repeat_list ul li{font-size:14px;margin:0 0 8px;padding-left:18px;letter-spacing:0;}
+.repeaterParent .repeater_list .title_area, .repeaterParent .repeater_list .multi_links{display:inline-block;}
+.repeaterParent .repeater_list .title_area{width:100%;padding-right:0;}
+.repeaterParent .repeater_list .title_area:before,.repeaterParent .repeater_list .title_area:after{display:none;}
+.repeaterParent .repeater_list .title_area h3{font-size:16px;padding:10px;background:#efe8e5;border-left:3px solid #ff5200;}
+.repeaterParent .repeater_list{min-height:inherit;border-top:0 solid #e2e2e2;height:auto;}
+.repeaterParent .repeater_list .title_area:after{transform:rotate(90deg);right:inherit;top:35px;left:14px;}
+.repeaterParent .repeater_list .title_area:before{transform:rotate(90deg);right:initial;left:50px;}
+.repeaterParent .repeater_list .multi_links{padding-left:0;padding-top:15px;}
+.services_section .repeater_list_parent .repeat_list{max-width:188px;}
+.services_section .repeater_list_parent .wideWidth{max-width:188px;}
+.services_section .repeater_list_parent .doubleList.wideWidth{max-width:338px;}
+.callToAction h2{font-size:34px;}
+.callToAction p{font-size:17px;line-height:25px;}
+.callToAction .cta_btn{margin:45px 0 0;}
+}
+@media (max-width:991px){..icon-text-box{height:300px;}
+.services_section .repeater_list_parent .repeat_list{max-width:33.333%;}
+.services_section .repeater_list_parent .wideWidth{max-width:33.333%;}
+.services_section .repeater_list_parent .doubleList.wideWidth{max-width:33.333%;}
+.services_section .repeater_list_parent .repeat_list ul li{font-size:13px;margin:0 0 5px;padding-left:17px;}
+.services_section .repeater_list_parent .repeat_list h3{font-size:20px;}
+}
+@media (max-width:767px){.top-of-page{position:fixed!important;width:40px;height:40px;opacity:0.8;bottom:20px;}
+.services_section .repeater_list_parent .repeat_list,.services_section .repeater_list_parent .wideWidth,.services_section .repeater_list_parent .doubleList.wideWidth{max-width:50%;height:auto!important;}
+.CTA_text_content >p{font-size:18px!important;margin:24px 0 20px!important;}
+.whatWeDo_section h1{font-size:32px;}
+.whatWeDo_section h5{font-size:20px;line-height:28px;margin:0 0 15px;}
+.whatWeDo_section p{font-size:16px;line-height:24px;}
+.services_section{padding:10px 0 0;}
+.other_services_links hgroup{font-size:22px;padding:0 0;line-height:30px;margin:0 0 20px;}
+.services_section .repeater_list_parent .repeat_list h3{margin:16px 0 22px;text-align:center;}
+.services_section .repeater_list_parent .repeat_list ul li{padding-bottom:9px;width:50%;border-bottom:1px solid #dedede;float:left;}
+.page-id-23 .breadcrumbs{display:none;}
+.services_section .repeater_list_parent .repeat_list ul li.long_text{width:100%;}
+.services_section .repeater_list_parent .doubleList ul li{width:50%;}
+.services_section .repeater_list_parent .repeat_list ul li a{display:block;}
+.services_section .repeater_list_parent .repeat_list img{margin:0 auto;float:none;text-align:center;display:none;padding-left:21px;}
+.callToAction h2{font-size:30px;text-align:center;}
+.callToAction p{text-align:center;}
+.callToAction .cta_btn{margin:25px auto 0;float:none;display:block;}
+.thankyou_message_section{padding:40px 0;}
+.innerContent_thankyouPage h3{margin:0 0 20px;font-size:32px;}
+.innerContent_thankyouPage p{margin:0 0 10px;font-size:16px;}
+.innerContent_thankyouPage .tagline{font-size:16px;margin:20px 0 20px;}
+.innerContent_thankyouPage ul li{font-size:16px;padding:0 15px;}
+}
+@media (max-width:600px){.whatWeDo_section{padding:40px 0 0;}
+.services_section .repeater_list_parent .repeat_list,.services_section .repeater_list_parent .wideWidth,.services_section .repeater_list_parent .doubleList.wideWidth{max-width:100%;min-height:initial;float:none;margin:0 auto;}
+.services_section .repeater_list_parent .repeat_list h3 br{display:none;}
+.repeaterParent .repeater_list .title_area h3{font-size:17px;}
+.repeaterParent .repeater_list .multi_links{padding-top:18px;}
+.repeaterParent .repeater_list .title_area:before{top:-15px;}
+.repeaterParent .repeater_list .title_area:after{top:19px;}
+.innerContent_thankyouPage ul li{display:block;font-size:18px;border-right:0;}
+}
+@media (max-width:480px){.services_section .repeater_list_parent .doubleList ul li{width:50%;}
+.callToAction h2{font-size:23px;}
+.callToAction p{font-size:14px;line-height:22px;}
+.callToAction .cols_left{padding:0 12px;}
+.callToAction .cta_btn{font-size:17px;max-width:160px;}
+}
+.page-id-19428 .modal-backdrop.in,.page-id-19896 .modal-backdrop.in,.page-id-19944 .modal-backdrop.in,.page-id-19766 .modal-backdrop.in,.magentogetQuery_parent .modal-backdrop.in{display:none;}
+.page-id-19428 .modal-dialog,.page-id-19896 .modal-dialog,.page-id-19944 .modal-dialog,.page-id-19766 .modal-dialog, .magentogetQuery_parent .modal-dialog{background:rgba(0,0,0,0.7);width:100%;height:100%;}
+.page-id-19428 .modal-content,.page-id-19896 .modal-content,.page-id-19944 .modal-content,.page-id-19766 .modal-content,.magentogetQuery_parent .modal-content{width:50%;margin:auto;}
+.page-id-19428 .modal-content,.page-id-19896 .modal-content,.page-id-19944 .modal-content,.page-id-19766 .modal-content,.magentogetQuery_parent .modal-content{top:5%;}
+/*.page-id-20104 .magentodevFoooter{display:none;}
+*/
+.sidebar_submenu.list-unstyled li a{color:#ff5200!important;padding-left:5px!important;}
+.case_study_popup .footerFomrcount span.letstalk{color:#000;font-size:26px;padding-left:0;line-height:30px;}
+.case_study_popup .footerFomrcount h3{font-size:16px;font-weight:300;margin-bottom:50px;margin-top:15px;padding-left:0;}
+.footerFomrcount .wpcf7 form{margin-top:10px;}
+.modal-body .footerFomrcount{padding-top:20px;}
+.qoute-left-content strong a{color:#fff;}
+#spinner img{width:76px;left:0;right:0;margin:auto;height:76px;position:relative;top:38%;}
+#spinner{position:absolute;z-index:999;top:0;left:0;height:100%;width:100%;text-align:center;margin:auto;right:0;bottom:0;}
+.casestudyModalbox.magentogetQuery .wpcf7-mail-sent-ok{display:block!important;color:#398f14;text-align:center;}
+.requestformdev div.wpcf7-mail-sent-ok{color:#fff;}
+/********************************************************# wordpress-work/advantages-of-wordpress style start here********************************************************/
+.advantage_wordpressBanner{position:relative;background:url(../images/advantagesOfWordpressImg.jpg) no-repeat center;background-size:cover;background-blend-mode:multiply;background-color:#57c3ff;padding:100px 0;}
+.advantage_wordpressBanner:after{content:'';position:absolute;top:0;left:0;width:100%;height:100%;background:-moz-linear-gradient(268deg, rgba(255,82,0,1) 0%, rgba(0,0,0,1) 100%);background:-webkit-gradient(linear, left top, left bottom, color-stop(0%, rgba(255,82,0,1)), color-stop(100%, rgba(0,0,0,1)));background:-webkit-linear-gradient(268deg, rgba(255,82,0,1) 0%, rgba(0,0,0,1) 100%);background:-o-linear-gradient(268deg, rgba(255,82,0,1) 0%, rgba(0,0,0,1) 100%);background:-ms-linear-gradient(268deg, rgba(255,82,0,1) 0%, rgba(0,0,0,1) 100%);background:linear-gradient(182deg, rgba(255,82,0,1) 0%, rgba(0,0,0,1) 100%);filter:progid:DXImageTransform.Microsoft.gradient( startColorstr='#ff5200', endColorstr='#000000',GradientType=0 );opacity:0.4;}
+.advantagesWordpress_InnerContent{position:relative;z-index:9;width:100%;max-width:780px;margin:0 auto;}
+.advantagesWordpress_InnerContent h1{margin:0 0 25px;color:#fff;font-weight:500;}
+.advantagesWordpress_InnerContent p{margin:0 0 15px;color:#fff;font-size:20px;line-height:25px;font-weight:300;}
+.advantagesWordpress_InnerContent >.call_btn{background:#ff5200;color:#fff;border-radius:50px;border:1px solid #ff5200;font-size:1.8rem;line-height:5rem;display:inline-block;padding:0 25px;margin-top:10px;font-weight:500;text-transform:uppercase;-webkit-transition:all .3s linear;transition:all .3s linear;}
+.advantages_of_wordpress_reDesign{padding:40px 0 0!important;counter-reset:section;}
+.advantages_of_wordpress_reDesign .main_paragraph{padding:0 0 40px;border-bottom:1px solid #e8e8e8;margin-bottom:42px;}
+.advantages_of_wordpress_reDesign .sub_heading{font-weight:500;text-transform:uppercase;}
+.advantages_of_wordpress_reDesign .sub_heading{position:relative;padding-left:20px;line-height:25px;color:#000;}
+.advantages_of_wordpress_reDesign .sub_heading:before{content:'\2713';position:absolute;top:0;left:0;height:26px;color:#ff5200;text-align:center;/* border:1px solid #a59c9c;*/}
+.advantages_of_wordpress_reDesign .colsStyle{margin:0 0 30px;min-height:180px;}
+.advantages_of_wordpress_callAction{margin-top:20px!important;margin-bottom:0!important;padding:35px 0 15px!important;}
+.wordPress_development{padding:60px 0 40px!important;margin:0!important;}
+.wordPress_development h3{font-size:26px;line-height:normal;letter-spacing:0;color:#1a1a1a;font-weight:400;margin:0 0 20px;text-align:center;}
+.wordPress_development p{text-align:center;margin:0 0 30px;font-size:16px;line-height:24px;}
+.wordPress_development ul{margin:45px 0 0;padding:0;list-style:none;}
+.wordPress_development ul li{width:50%;float:left;vertical-align:top;min-height:50px;margin:0 0 20px;padding:0 15px 0 24px;position:relative;text-align:left;}
+.wordPress_development ul li:before{content:'';position:absolute;top:3px;left:0;width:15px;height:15px;border-radius:50%;background:#ff5200;border:2px solid #fff;box-shadow:0 0 0 1px #969696;}
+.trusted_technology_partner{padding:60px 40px!important;margin:0!important;}
+.trusted_technology_partner h3{font-size:26px;line-height:normal;letter-spacing:0;color:#1a1a1a;font-weight:400;margin:0 0 20px;text-align:center;}
+.trusted_technology_partner_innerContent{position:relative;width:100%;max-width:100%;margin:0 auto;padding:0 60px;}
+.trusted_technology_partner p{text-align:center;margin:0 0 0;font-size:16px;line-height:24px;position:relative;color:#3e3e3e;}
+.trusted_technology_partner_innerContent:before,.trusted_technology_partner_innerContent:after{content:'';position:absolute;width:50px;height:50px;background:url(../images/quotes_1.png) no-repeat center!important;background-size:50px!important;}
+.trusted_technology_partner_innerContent:before{left:0;top:-10px;-moz-transform:scaleY(-1);-webkit-transform:scaleY(-1);transform:scaleY(-1);}
+.trusted_technology_partner_innerContent:after{bottom:0;right:0;-moz-transform:scaleX(-1);-webkit-transform:scaleX(-1);transform:scaleX(-1);}
+/*Thank-you-page page start here*/
+.light-back{background:#ececec }
+ .h-100{height:100%;;}
+ section.ppc_thankyou{position:absolute;overflow:hidden;background-image:linear-gradient(120deg, #89f7fe 0%, #66a6ff 100%);height:100%;width:100% }
+ .bottom_image{position:absolute;bottom:12%;width:100%;z-index:9;}
+ .bottom_image img{width:75%;margin:auto }
+ .ppc_thankyou::before , .ppc_thankyou::after{content:'';position:absolute;bottom:0;height:350px;background:#ececec;}
+.ppc_thankyou:before{width:50%;left:0;-webkit-transform:skewx(64deg);-moz-transform:skewx(64deg);-o-transform:skewx(64deg);-ms-transform:skewx(64deg);transform:skewx(64deg);transform-origin:bottom left;}
+.ppc_thankyou:after{width:50%;right:0;-webkit-transform:skewx(-64deg);-moz-transform:skewx(-64deg);-o-transform:skewx(-64deg);-ms-transform:skewx(-64deg);transform:skewx(-64deg);transform-origin:bottom right;}
+.ppc_thankyou_box{margin:60px 0 40px;}
+.ppc_thankyou_box h2{color:#fff;font-size:40px;text-align:center;margin:25px 0;}
+.ppc_thankyou_box p{color:#fff;font-size:15px;text-align:center;font-weight:600;}
+.ppc_thank_logo img{margin:40px auto}
+.thankyou_points{margin-top:20px;}
+.thankyou_points p{margin-bottom:4px;font-size:13px;margin-top:0;font-weight:600;}
+
+@media (max-width:1199px){
+	.advantages_of_wordpress_reDesign .colsStyle{min-height:200px;}
+	.wordPress_development ul li{min-height:67px;margin:0 0 15px;}
+}
+
+@media (max-width:991px){
+	.advantages_of_wordpress_reDesign .colsStyle{min-height:250px;}
+}
+@media (max-width:767px){
+	.advantages_of_wordpress_reDesign .colsStyle{margin:0 0 20px;min-height:inherit;text-align:left;}
+	.advantages_of_wordpress_reDesign .sub_heading{margin:0 0 0!important;}
+	.advantages_of_wordpress_callAction{padding:35px 0 15px!important;}
+	.wordPress_development ul li{min-height:inherit;width:100%;}
+	.wordPress_development ul li:before{top:4px;}
+	.wordPress_development ul{margin:30px 0 0;}
+	.advantage_wordpressBanner{padding:62px 0 30px;}
+	.page_content_wrapper .wordPress_development{padding:50px 0 30px!important;}
+	.advantagesWordpress_InnerContent h1{margin:0 0 18px;font-size:28px;}
+	.trusted_technology_partner_innerContent{padding:0 0;}
+	.trusted_technology_partner h3{font-size:22px;line-height:32px;margin:0 0 20px;}
+	.trusted_technology_partner_innerContent:before, .trusted_technology_partner_innerContent:after{opacity:0.5;}
+	.page_content_wrapper .trusted_technology_partner{padding:50px 0 40px!important;}
+}
+
+@media only screen and (max-width:768px){
+	.ppc_thankyou{height:100%!important }
+	.bottom_image{bottom:0 }
+	.bottom_image img{width:100%;}
+}
+@media (min-width:768px) and (max-width:991px){.ppc_thankyou_box{margin:20rem 0 40px }
+ }
+ @media (max-width:1199px){.magento_development_services_featured h1{font-size:42px;line-height:48px;}
+.magento_development_services_featured .btn_ui{font-size:15px;padding:14px 15px;margin:20px 12px 0 0;}
+}
+@media (max-width:991px){.magento_development_services_featured h1{font-size:36px;line-height:42px;}
+.magento_development_services_featured p{font-size:16px;line-height:22px;}
+.magento_development_services_featured .btn_ui{font-size:13px;padding:14px 10px;}
+.magento_development_services_featured .left_part{padding-right:44%;}
+.magento_development_services_featured .right_part >img{width:120px;}
+.magento_development_services_featured .cols_left{margin:70px 0 0;}
+}
+@media (max-width:767px){.magento_development_services_featured{padding:50px 0;background-position:left center!important;}
+.magento_development_services_featured .cols_left,.magento_development_services_featured .cols_right{margin:0 0 0;width:100%;}
+.magento_development_services_featured .right_part >img{width:120px;margin:0 auto;float:none;}
+.magento_development_services_featured .right_part{width:100%;text-align:center;}
+.magento_development_services_featured .left_part{padding-right:initial;text-align:center;padding-top:30px;}
+}
+/********************************************************# Thank-you-page page end here********************************************************/

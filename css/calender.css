@@ -1,0 +1,150 @@
+*{margin:0;padding:0;}
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800');
+/* style the main area */
+.tree-container {height:600px;box-sizing: border-box;margin: 50px auto;position: relative;max-width:1000px; width:100%;background-color: #f3cca5;}
+.tree-container-inner {width: 100%;  padding:50px; background-size:100%;margin: 0;text-align: center;height: 100%;box-sizing: border-box;}
+.tree-section {width: 50%;display: inline-block;margin-top: 10px;position: relative;z-index: 9;vertical-align: top;height: 100%;}
+.modal-dialog.christmas-popup button {position: absolute;right: -16px;top: -16px;z-index: 1;background: #000;color: #fff;opacity: 1;padding: 7px 12px;border-radius: 50%;box-shadow: none;}
+.modal-dialog.christmas-popup button:after{background-color: transparent;}
+.tree {width: 100%;height: auto;background: url(../images/tree.svg) center center no-repeat;height: 105%;display: inline-block;bottom: -15px;position: relative;}
+.big-star {width: 66px;height: 66px;position: absolute;top: -59px;left: -40px;}
+.big-star img{max-width:100%;}
+.star1{width: 20px;height: 20px;position: absolute;top: 133px;left: -55px;}
+.star1 img, .star2 img, .star3 img, .star4 img, .star5 img, .star6 img, .star7 img, .star8 img, .star9 img{max-width:100%;}
+.star2{width: 25px;height: 25px;position: absolute;top: 246px;left: -95px;}
+.star3{width: 20px;height: 20px;position: absolute;top: 190px;left: 60px;}
+.star4{width: 25px;height: 25px;position: absolute;top: 320px;left: 100px;}
+.star5{width: 12px;height: 12px;position: absolute;top: 395px;left: -92px;}
+.star6{width: 12px;height: 12px;position: absolute;top: 435px;left: -5px;}
+.star7{width: 12px;height: 12px;position: absolute;top: 245px;left: 10px;}
+.star8{width: 12px;height: 12px;position: absolute;top: 347px;left: 37px;}
+.star9{width: 16px;height: 17px;position: absolute;top: 471px;left: 48px;}
+.star9{width: 16px;height: 17px;position: absolute;top: 434px;left: 141px;}
+.star-icon{position: absolute;right:0px;margin-top:0px;animation: blinkpara ease 1s;animation-iteration-count: infinite;animation-direction: alternate;animation-fill-mode: forward;}
+@keyframes blinkpara {0% {opacity: 0;transform: scale(0.8)} 100% {opacity: 1;transform: scale(1)}}
+.tree-calender-details{ width:48%; padding:1% 3% 3% ; display:inline-block;box-sizing: border-box; position:relative; z-index:9; text-align:center;}
+.calender-icon{100%; display:inline-block;position:relative;}
+.calender-icon ul{ margin:0px; padding:0px; list-style:none;}
+.calender-icon ul li{padding:0px;}
+.calenter-date{ width:50px; height:50px;  border:3px solid #c8ae84; -moz-border-radius: 6px;-webkit-border-radius:6px;border-radius:6px;-khtml-border-radius:6px;-webkit-box-shadow:-11px 11px 0px -4px rgba(0,0,0,0.4);-moz-box-shadow: -11px 11px 0px -4px rgba(0,0,0,0.4);box-shadow: -11px 11px 0px -4px rgba(0,0,0,0.4);-webkit-transition: all .3s ease;-moz-transition: all .3s ease;-ms-transition: all .3s ease;-o-transition: all .3s ease;transition: all .3s ease;}
+.calenter-date.active{ width:60px; height:60px; cursor:pointer;	-webkit-transition: all .3s ease;-moz-transition: all .3s ease;-ms-transition: all .3s ease;-o-transition: all .3s ease;transition: all .3s ease;}
+.calenter-date:nth-child(odd){background:#f4e8d3;}
+.calenter-date:nth-child(even){background:#c8ae84;border:3px solid #fff;}
+.icon1,.icon2,.icon3,.icon4,.icon5,.icon6,.icon7,.icon8,.icon9,.icon10,.icon11,.icon12,.icon13,.icon14,.icon15,.icon16,.icon17,.icon18,.icon19,.icon20,.icon21,.icon22,.icon23,.icon24{position:absolute; animation:1.8s ease-in-out 0 alternate forwards infinite running turnAnime;animation-delay:2.5s;}
+.icon1{top: 10px;left: -28px;}
+.icon2 {top: 70px;left: -75px;}
+.icon3 {top: 85px;left: 10px;}
+.icon3.active {top: 85px;left: 10px;}
+.icon4 {top: 158px;left: -10px;}
+.icon4.active {top: 158px;left: -10px;}
+.icon5 {top: 175px;left: -100px;}
+.icon5.active {top: 175px;left: -100px;}
+.icon6 {top: 240px;left: -60px;}
+.icon6.active {top: 240px;left: -60px;}
+.icon7 {top: 260px;left: 50px;}
+.icon7.active {top: 260px;left: 50px;}
+.icon8 {top: 286px;left: -135px;}
+.icon8.active {top: 286px;left: -135px;}
+.icon9 {top: 340px;left: -20px;}
+.icon9.active {top: 340px;left: -20px;}
+.icon10 {top: 400px;left: 70px;}
+.icon10.active {top: 400px;left: 70px;}
+.icon11 {top: 420px;left: -95px;}
+.icon11.active {top: 420px;left: -95px;}
+.cd-content1{ width:100%; display:inline-block;}
+.cd-content1-img { width: 60%;opacity:1; visibility:visible;float: left;margin: 5px 0px 0px 1px;-moz-transition: all .3s ease;-ms-transition: all .3s ease;	-o-transition: all .3s ease;transition: all .3s ease;}
+.cd-content1-img img{max-width:100%;}
+.cd-date{width: 35%;display: inline-block;font-size: 14px;color: #af700a;font-weight: 800;font-family: 'Open Sans', sans-serif;margin-top: 3px;-moz-transition: all .3s ease;-ms-transition: all .3s ease;-o-transition: all .3s ease;transition: all .3s ease;}
+.cd-lock{width: 15px;display: inline-block;background: url(../images/lock-icon.png)left center no-repeat;float: right;height: 20px;margin-top: 7px;}
+.calenter-date:nth-child(even) .cd-lock { background: url(../images/lock-icon1.png)left center no-repeat;}
+.month-date{visibility:hidden; opacity:0;left: 1px;top: 30px;font-size: 17px; position:absolute;font-weight: 600;font-family: 'Open Sans', sans-serif; text-align:center;-moz-transition: all .3s ease;-ms-transition: all .3s ease;-o-transition: all .3s ease;transition: all .3s ease;}
+.calenter-date.active .cd-content1-img { width:0px;visibility:hidden; opacity:0;-moz-transition: all .3s ease;-ms-transition: all .3s ease;-o-transition: all .3s ease;transition: all .3s ease;}
+.calenter-date.active .cd-date{width: 96%;box-sizing: border-box; text-align:center; font-size:24px; -moz-transition: all .3s ease;-ms-transition: all .3s ease;-o-transition: all .3s ease;transition: all .3s ease;}
+.calenter-date.active .month-date { width:96%;left: 1px;top: 30px;font-size: 17px; position:absolute;opacity:1;text-align:center;visibility:visible; color: #af700a; -moz-transition: all .3s ease;-ms-transition: all .3s ease;-o-transition: all .3s ease;transition: all .3s ease;}
+.calenter-date.active .cd-lock, .active ~ .calenter-date .cd-lock { display:none;}
+.calenter-date:nth-child(even) .cd-date{ color:#fff;}
+.calenter-date:nth-child(even) .month-date{ color:#fff;}
+.calenter-date:nth-child(even):hover .cd-date{ color:#fff;}
+.calenter-date:nth-child(even):hover .month-date{ color:#fff;}
+@keyframes zoomIn {from {opacity: 0; transform: scale3d(.3, .3, .3);} 50% {opacity: 1;}}
+.calendar-product-detail-outer{width:0px; height:0px; padding:6px; position:absolute; top: 0px; left:0px;background:rgba(204, 45, 46, .5);visibility:hidden; opacity:0; z-index:99; animation-name: zoomIn;
+-moz-border-radius:100px;-webkit-border-radius:100px;border-radius:100px;-khtml-border-radius:100px;-moz-transition: all .3s ease;-ms-transition: all .3s ease;-o-transition: all .3s ease;transition: all .3s ease;}
+.calenter-date.active .calendar-product-detail-outer{width:165px; height:165px;position:absolute;padding:5px;top: -85px;left: -165px; visibility:visible; opacity:1;-moz-transition: all .3s ease;
+	-ms-transition: all .3s ease;-o-transition: all .3s ease;transition: all .3s ease;}
+.calendar-product-detail{width:0px; height:0px; display:inline-block; background:#fff;text-align:center;-moz-border-radius:100px;-webkit-border-radius:100px;border-radius:100px;-khtml-border-radius:100px;}
+.calenter-date.active .calendar-product-detail{width:155px; height:155px;animation-name: zoomIn;-moz-transition: all .3s ease;-ms-transition: all .3s ease;-o-transition: all .3s ease;transition: all .3s ease;display: flex;align-items: center;}
+.calendar-product-detail-img {width: 80%;display: inline-block;margin: 30px auto;vertical-align: middle;}
+.calendar-product-detail-img svg {width: 40px; margin-bottom: 10px;}
+.calendar-product-detail-img img{max-width:100%;}
+.calendar-product-detail h5 {font-size: 18px;color: #383838;margin: 0px 0px 1px;padding: 0px;font-family: 'Open Sans', sans-serif;font-weight: 400;text-transform: lowercase;}
+.calendar-product-detail span {display: block;font-weight: 600;text-transform: uppercase;color: #cd2026;font-size: 20px;margin-top: 5px;line-height: 1;}
+.calendar-product-detail p{ font-size:12px; color:#383838;margin:0px 0px 1px; padding:0px;font-family: 'Open Sans', sans-serif;font-weight:300;}
+.calender-details-top{ background:rgba(255, 255, 255, .4); padding:25px 0px; text-align:center;margin-bottom: 30px;}
+.calender-details-top img {display: block;max-width: 80%;margin: 0 auto;}
+.calender-details-top h1 {font-family: 'Open Sans', sans-serif;font-weight: 500;font-size: 22px;line-height: 1.3;color: #cd2026;margin-top: 12px;}
+.team-section{ width:100%; display:inline-block; margin-top:0;}
+.team-section h3.title{font-family:'Open Sans', sans-serif; font-weight:600;font-size:36px;line-height:48px;color:#000;}
+.wishes{ width:62%; display:inline-block; background:#cd2026; padding:6px 20px; text-align:center; margin-top:0px; color:#fff;font-family:'Open Sans', sans-serif; font-weight:600; font-size:27px; text-transform:uppercase; position:relative; }
+.wishes:before, .wishes:after{content: ''; position: absolute; border-bottom: 30px solid #cd2026; border-left: 10px solid transparent; border-right: 25px solid transparent;}
+.wishes:before{top: 0px;left: -25px; -webkit-transform: rotate(-180deg); -moz-transform: rotate(-180deg); -ms-transform: rotate(-180deg); -o-transform: rotate(-180deg); }
+.wishes:after{ top: 28px;left: -20px; -webkit-transform: rotate(131deg); -moz-transform: rotate(131deg); -ms-transform: rotate(131deg); -o-transform: rotate(131deg); }
+.wishes-inner:before, .wishes-inner:after{content: ''; position: absolute; border-bottom: 30px solid #cd2026; border-left: 10px solid transparent; border-right: 25px solid transparent;}
+.wishes-inner:before{ top: -3px;right: -30px; -webkit-transform: rotate(72deg); -moz-transform: rotate(72deg); -ms-transform: rotate(72deg); -o-transform: rotate(72deg); }
+.wishes-inner:after{top: 17px;right: -26px;-webkit-transform: rotate(0deg); -moz-transform: rotate(0deg); -ms-transform: rotate(0deg); -o-transform: rotate(0deg); }
+.merry-title{ width:100%; display:inline-block; padding:20px 0px 5px;}
+.merry-title span{ width:100%; display:inline-block; font-size:34px; color:#cd2026; font-weight:600; position:relative; text-transform:uppercase;} 
+.merry-title span:before{ width:26%; height:1px; content:''; position:absolute; margin-right:10px; background:#000; left:10px; top:50%;}
+.merry-title span:after{ width:26%; height:1px; content:''; position:absolute; margin-left:10px; background:#000;right:10px;top:50%;}
+.christmas{padding:10px 0px; font-size:48px; color:#000; font-weight:600;text-transform:uppercase;}
+.hny{font-size: 19px;padding: 4.5px 0px;width: 77%;}
+.hny:before, .hny:after{border-bottom: 20px solid #cd2026;border-left: 10px solid transparent;border-right: 24px solid transparent;}
+.hny:before {top: 0px;left: -19px;}
+.hny:after{top: 20px;left: -15px; -webkit-transform: rotate(139deg);-moz-transform: rotate(139deg);-ms-transform: rotate(139deg); -o-transform: rotate(139deg);}
+.hny-inner:before, .hny-inner:after{content: ''; position: absolute;border-bottom: 20px solid #cd2026;border-left: 10px solid transparent;border-right: 24px solid transparent;}
+.hny-inner::before {top: -6px;right: -22px;-webkit-transform: rotate(-36deg);-moz-transform: rotate(-36deg);-ms-transform: rotate(-36deg);-o-transform: rotate(-36deg);}
+.hny-inner::after {top: 13px;right: -25px;-webkit-transform: rotate(0deg);-moz-transform: rotate(0deg);-ms-transform: rotate(0deg);-o-transform: rotate(0deg);}
+/** style the background running **/
+@-webkit-keyframes slide {from { background-position: 0 0; } to { background-position: -1200px 0; }}
+/* style the falling snow */
+.fall_snow {background-image: url('../images/snow1.png'), url('../images/snow2.png'), url('../images/snow3.png');height: 100%;left: 0;position: absolute;top: 0;width: 100%;-webkit-animation: snow 10s linear infinite;-moz-animation: snow 10s linear infinite;-ms-animation: snow 10s linear infinite;animation: snow 10s linear infinite;}
+@keyframes snow {0% {background-position: 0px 0px, 0px 0px, 0px 0px;} 50% {background-position: 500px 500px, 100px 200px, -100px 150px;} 100% {background-position: 500px 1000px, 200px 400px, -100px 300px;}}
+@-moz-keyframes snow {0% {background-position: 0px 0px, 0px 0px, 0px 0px;} 50% {background-position: 500px 500px, 100px 200px, -100px 150px;} 100% {background-position: 400px 1000px, 200px 400px, 100px 300px;}}
+@-webkit-keyframes snow {0% {background-position: 0px 0px, 0px 0px, 0px 0px;} 50% {background-position: 500px 500px, 100px 200px, -100px 150px;} 100% {background-position: 500px 1000px, 200px 400px, -100px 300px;}}
+@-ms-keyframes snow {0% {background-position: 0px 0px, 0px 0px, 0px 0px;} 50% {background-position: 500px 500px, 100px 200px, -100px 150px;} 100% {background-position: 500px 1000px, 200px 400px, -100px 300px;}}
+.modal-dialog.christmas-popup {max-width: none !important;width: auto;}
+.modal.fade .modal-dialog.christmas-popup {-ms-transform: translate(-50%);-o-transform: translate(-50%);transform: translateY(-50%);top: 45%;}
+/*Media Query*/
+@media only screen and (max-width: 575px){
+    .tree-container{width: 90% !important; max-width: 350px;}
+    .tree-container-inner{padding: 20px 10px;}
+    .calender-details-top{padding: 15px 0 10px;}
+    .flip-clock-wrapper{margin-top: 30px}
+    .flip-clock-wrapper ul{margin: 2px;  width: 20px;  height: 30px;}
+    .flip-clock-wrapper ul li{line-height: 28px;}
+    .flip-clock-wrapper ul li a div div.inn{font-size: 20px;}
+    .flip-clock-divider{height: 44px;}
+    .flip-clock-dot.top{top: 9px;}
+    .flip-clock-divider .flip-clock-label{font-size: 12px; right: -38px;}
+    .flip-clock-divider.minutes .flip-clock-label{right: -35px;}
+    .flip-clock-divider.seconds .flip-clock-label{right: -49px;}
+}
+@media only screen and (max-width: 767px){
+    .tree-container{width: 80%;  max-width: 450px;   height: auto;}
+    .tree-container-inner{padding: 20px;}    
+    .tree-section{display: none;}
+    .tree-calender-details{width: 100%;}
+    .calender-details-top h1{font-size: 16px;}
+    .wishes{width: 85%; font-size: 14px;}
+    .wishes:before, .wishes:after, .wishes-inner:before, .wishes-inner:after { border-bottom-width: 15px; border-right-width: 15px;}
+    .wishes:before {left: -14px;}
+    .wishes:after {top: 19px;  left: -14px; transform: rotate(133deg); webkit-transform: rotate(133deg); -moz-transform: rotate(133deg); -ms-transform: rotate(133deg); -o-transform: rotate(133deg);}
+    .wishes-inner:before{top: -4px;    right: -13px; transform: rotate(-44deg); -webkit-transform: rotate(-44deg);  -moz-transform: rotate(-44deg); -ms-transform: rotate(-44deg);
+    -o-transform: rotate(-44deg);}
+    .wishes-inner:after{right: -15px; top: 15px; }
+    .wishes.hny{line-height: 21px; margin-top: 15px;}
+    .merry-title span{font-size: 20px;}
+    .christmas{font-size: 34px;}
+    .flip-clock-wrapper ul, .flip-clock-divider{display: inline-block; float: none;}
+    .flip-clock-dot.top{top: 19px;}
+    .flip-clock-dot.bottom{bottom: 7px;}
+}

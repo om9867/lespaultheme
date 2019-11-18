@@ -1,0 +1,576 @@
+#main-heading{display:none;}
+/*===== temporary blocked====*/
+.ai-banner{background:url('/wp-content/uploads/2019/09/ai-banner.jpg');background-size:cover;padding:50px 0 150px 0;}
+.wrap:before{right:unset;}
+.text-white{color:#ffffff;}
+.ai-banner h1,.ai-banner p{color:#ffffff;}
+.ai-banner h1{padding-bottom:15px;font-weight:bold;font-size:35px;line-height:1.5;}
+.ai-banner p{padding-bottom:15px;font-size:18px;line-height:1.6;}
+.ai-banner a:hover,.ai-banner a:focus{background:#ffffff;color:#F15524;}
+.ai-banner a{display:block;background-color:#ff5200;text-decoration:none;text-transform:capitalize;font-size:15px;width:150px;color:#ffffff;text-align:center;padding:10px 0;transition:.5s ease-in-out;border:2px solid #ff5200;border-radius:30px;}
+.ai-section-second{padding:50px 0;}
+.ai-section-second .div-for-border:before{content:'';display:block;position:absolute;height:100%;width:91%;border-top:5px solid #546574;border-left:5px solid #546574;top:-17px;left:-17px;}
+.ai-section-second .div-for-border{position:relative;}
+.ai-section-second h2{padding-bottom:15px;font-size:35px;line-height:45px;}
+.ai-section-second p{font-size:15px;letter-spacing:1px;line-height:28px;}
+.ai-section-third{padding-bottom:50px;padding-top:20px;}
+section.ai-section-third .row{display:flex;flex-wrap:wrap;}
+section.ai-section-third .row>div{padding:0px 10px;}
+section.ai-section-third h4{font-size:1.25rem;margin-top:20px;font-weight:600;}
+section.ai-section-third p{line-height:1.4;color:#606060;padding:0 20px;}
+.ai-section-fourth{padding:75px 0;background:url('/wp-content/uploads/2019/09/ai-trust-bg.jpg');background-size:cover;}
+section.ai-section-fourth .row{display:flex;flex-wrap:wrap;}
+.ai-section-fourth h2{text-transform:capitalize;padding-bottom:50px;}
+.ai-section-fourth .fourth-section-content{background-color:#ffffff;padding:20px 15px;min-height:175px;}
+section.ai-section-fourth img{padding:0 13px;z-index:2;position:inherit;width:100%;}
+.ai-section-fourth .fourth-section-content:before{display:block;content:'';width:100%;height:10px;margin:auto;left:0px;top:-100px;position:absolute;z-index:1;border-left:70px solid transparent;border-right:70px solid transparent;border-bottom:100px solid #abc2d6;}
+.ai-section-fourth .fourth-section-content{position:relative;}
+.ai-section-fifth{padding:60px 0 0 0;}
+.ai-section-fifth .centered-border{border-bottom:2px solid #efefef;padding-bottom:60px;}
+.ai-section-fifth .Technologies-we-laverage-1{display:flex;list-style-type:none;flex-wrap:wrap;justify-content:space-around;align-items:center;padding:0;width:100%;}
+.ai-section-fifth .Technologies-we-laverage-2{display:flex;list-style-type:none;flex-wrap:wrap;justify-content:space-around;align-items:center;padding:0;width:100%;}
+.ai-section-fifth h2{padding-bottom:35px;font-size:35px;}
+.ai-section-fifth img{filter:grayscale(1);text-align:center;padding:15px;}
+.ai-section-fifth .col-md-2{text-align:center;}
+.ai-section-sixth{padding:50px 0;background:url("/wp-content/uploads/2019/09/ai-bg-pattern-1.png") top 10% left -6%/35% no-repeat, url("/wp-content/uploads/2019/09/ai-bg-pattern-2.png") top 60% right/37% no-repeat, url("/wp-content/uploads/2019/09/ai-bg-pattern-3.png") top 96% left -27%/36% no-repeat;}
+section.ai-section-sixth .row>div{display:flex;align-items:center;justify-content:center;}
+section.ai-section-sixth .row{display:flex;width:100%;padding:50px 0;flex-wrap:wrap;margin:0;}
+.ai-section-sixth h3{font-size:34px;padding-bottom:20px;line-height:1.2;}
+section.ai-section-sixth h4{font-size:30px;line-height:45px;padding-bottom:15px;text-transform:capitalize;}
+section.ai-section-sixth p{line-height:27px;letter-spacing:0.5px;}
+.ai-section-seventh .Automotive-brands li{display:inline-block;width:20%;list-style-type:none;}
+.ai-section-seventh .Automotive-brands li img:hover{filter:opacity(0.5);}
+.ai-section-seventh .Automotive-brands{display:flex;flex-wrap:wrap;width:100%;padding:0;justify-content:space-between;}
+.ai-section-seventh{padding:0 0 30px 0;}
+.ai-section-seventh .centered-border{border-top:2px solid #efefef;padding-top:30px;}
+.ai-section-seventh h3{font-size:35px;}
+.ai-section-eighth{background:url('/wp-content/uploads/2019/09/ai-cta-bg.jpg');padding:25px 0;}
+section.ai-section-eighth .row>div{display:flex;align-items:center;justify-content:center;}
+.ai-section-eighth a{display:block;background-color:#f15524;text-decoration:none;text-transform:capitalize;font-size:15px;border-radius:5px;width:150px;color:#fff;text-align:center;padding:10px 0;transition: .5s ease-in-out;border:2px solid #f15524}
+.ai-section-eighth a:hover{background:#fff;color:#f15524;}
+section.ai-section-eighth .row{display:flex;flex-wrap:wrap;align-items:center;justify-content:center}
+.ai-section-eighth h3{line-height:1.2;font-size:1.5625rem;margin:0}
+ul.Technologies-we-laverage-1 li:hover, ul.Technologies-we-laverage-2 li:hover{box-shadow:0 0 2px 2px #efefef;transition:all .2s}
+/*===adas page=====*/
+section.adas-section-second{padding:50px 20px;}
+section.adas-section-second.aditionPadding{padding-top:101px;}
+section.adas-section-second p{line-height:1.7;text-align:center;color:#424242;width:75%;margin:0px auto;padding:10px 0 50px;border-bottom:1px solid #e0e4e9;}
+section.ai-section-third.adas-section-third .row{display:flex;flex-wrap:wrap;margin:auto;}
+section.ai-section-third.adas-section-third .row>div{padding:10px 20px;}
+.adas-section-fixed-width{width:100%;max-width:1000px;margin:auto;position:relative;}
+.adas-section-fixed-width .adas-trust-box{background:#ffffff;margin:25px 0px;padding:20px;box-shadow:1px 1px 10px #e5e5e5;position:relative;transition:all 0.5s;overflow:hidden;}
+.adas-section-fourth{background:linear-gradient(0deg, rgba(232, 232, 232, 0.3), rgba(226, 226, 226, 0.3)), url("/wp-content/themes/lespaul-child/images/bg-image.jpg");padding:50px 0;overflow:hidden;background-attachment:fixed;}
+.adas-trust-box{border-radius:5px;}
+.adas-trust-box img{width:50px;}
+.adas-trust-box h3{font-weight:500;}
+.adas-trust-box p{line-height:1.4;}
+.adas-section-fourth h2{padding-bottom:20px;font-size:35px;}
+.adas-section-fixed-width .adas-trust-box:before{position:absolute;content:'';display:block;width:100%;height:100%;background-position:top right 30%;background-repeat:no-repeat;background-size:contain;transform:scale(2);}
+.adas-section-fixed-width .adas-trust-box:hover{transform:scale(1.025);}
+.adas-section-fixed-width .shaded-box-1:before{background-image:url('/wp-content/uploads/2019/09/adas/shaded-icon-1.png') !important;}
+.adas-section-fixed-width .shaded-box-2:before{background-image:url('/wp-content/uploads/2019/09/adas/shaded-icon-2.png') !important;}
+.adas-section-fixed-width .shaded-box-3:before{background-image:url('/wp-content/uploads/2019/09/adas/shaded-icon-3.png') !important;}
+.adas-section-fixed-width .shaded-box-4:before{background-image:url('/wp-content/uploads/2019/09/adas/shaded-icon-4.png')}
+/*================ Connected & Internet Cars ===============*/
+.automotive_connected_internet_cars .automotive_new_banner_overlay_content.max-w-31{width:45%;}
+.automotive_connected_internet_cars .automotive_new_banner_overlay_content h1{font-size:47px;}
+.automotive_connected_internet_cars .automotive_new_banner_overlay_content a{display:block;background-color:#F15524;text-decoration:none;text-transform:capitalize;font-size:15px;border-radius:5px;width:150px;color:#ffffff;text-align:center;padding:10px 0;margin-top:20px;}
+.active_internetcars{background:#ffffff;color:#005aa8;border-bottom:3px solid #005aa8;}
+.active_internetcars a{color:#005aa8 !important;}
+.brd-btm.p40{display:inline-block;padding:45px 0px;border-bottom:2px solid #e0e4e9;}
+.our_service_connected_cars h2{color:#000000;}
+.our_service_connected_cars{padding:50px 0px;background-image:url('/wp-content/uploads/2019/09/runningcars_bg_img.jpg');background-position:bottom;background-repeat:no-repeat;}
+.wrapper_services{max-width:748px;margin:0 auto;clear:both;padding-top:50px;}
+.icon_group_services img{text-align:center;margin:auto;}
+.services_icons_block{display:flex;justify-content:space-between;flex-wrap:wrap;}
+.icon_group_services p{color:#424242;font-size:16px;line-height:21px;min-height:50px;}
+.icon_group_services{width:25%;text-align:center;}
+.brd-btm.p40 p{font-weight:400;width:95%;margin:0 auto;margin-bottom:0px;font-size:16px;font-weight:normal;line-height:31px;}
+.connected_cars-section-sixth{background-color:#e1e5ed;padding:50px 0;}
+.connected_cars-section-sixth h1{font-size:40px;margin-bottom:60px;margin-top:0px;}
+.row.rev-ord{padding-top:60px;padding-bottom:60px;}
+.connected_cars-section-sixth h2{font-weight:600;margin-bottom:20px;color:#015ba8;line-height:35px;font-size:27px;margin-top:0px;}
+.exprties_points{font-size:16px;line-height:25px;padding-left:20px;font-weight:400;}
+.last_row{padding-top:60px;}
+.exprties_points li strong{font-weight:600;}
+.automotive_home_new.automotive_connected_internet_cars .ai-section-fifth h2{font-size:40px;line-height:30px;color:#292929;font-weight:600;}
+.our_service_connected_cars h2{font-size:40px;font-weight:600;line-height:31px;color:#292929;}
+section.adas-section-fourth.keyfeatureofcicar h2{font-size:40px;line-height:49px;color:#000000;font-weight:700;}
+section.adas-section-fourth.keyfeatureofcicar{background-size:cover;background-repeat:no-repeat;background-position:center;}
+.block_wrap_key{display:flex;align-items:center;}
+.nobrdbtn{border-bottom:0px !important;}
+.block_wrap_key h3{width:88%;margin:0px;padding-left:25px;}
+.adas-section-fixed-width.keyfeaturewidth{max-width:1150px;}
+.adas-section-fixed-width.keyfeaturewidth:before, .adas-section-fixed-width.keyfeaturewidth:after{display:none;}
+.adas-section-fixed-width.keyfeaturewidth .adas-trust-box{box-shadow:0px 0px 15px #ddd;transition:all 0.5s;}
+.are_you_ready_text{font-size:30px;line-height:38px;font-weight:600;}
+.wrapernopa{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;}
+a.ai-cta.addbgcolor{float:right;background-color:#f05523;font-size:20px;width:250px;text-align:center;float:right;font-weight:300;}
+.services_icons_block{width:690px;margin:0 auto 40px;}
+.car-img_btm{position:relative}
+.s_icon{display:inline-block;border:2px solid #464d53;padding:2rem;border-radius:50%;position:relative;transition:.5s ease-in-out;}
+.s_icon:after{content:'';left:35px;border:2px dashed #333;position:absolute;height:130px;top:100%;}
+.icon_group_services:hover .s_icon:before{display:block;}
+.s_icon:before{content:"";border-style:solid;position:absolute;bottom:-26px;position:absolute;z-index:999;border-top:10px solid transparent;border-left:10px solid transparent;border-bottom:10px solid #fff;border-right:10px solid transparent;left:50%;transform:translate(-59%);display:none;transition:.5s ease-in-out;}
+.service_content_wrapper{width:100%;left:0;background:#ffffff;box-shadow:0 0 15px #999;padding:20px;text-align:center;z-index:99;position:absolute;top:165px;border-radius:10px;transition:.5s ease-in-out;}
+.services_icons_block{position:relative;}
+.icon_group_services{cursor:pointer;}
+.icon_group_services:hover .s_icon img{filter:brightness(300);}
+.automotive_home_new.automotive_connected_internet_cars .ai-section-fifth{padding:80px 0 0 0;transition:.5s ease-in-out;}
+.wrapper_services{padding-bottom:20px;}
+.icon_group_services:hover .s_icon{background:#005aa8;border-color:#005aa8;}
+.after_hover, #consulting_services, #fleetmgt_services, #cloud_servi_services, #data_analytics__services, .icon_group_services:hover .before_hover{display:none;}
+.icon_group_services:hover .after_hover{display:block;}
+.arrow-up{width:0px;height:0px;border-left:5px solid transparent;border-right:5px solid transparent;border-bottom:5px solid #2f2f2f;}
+.icon_group_services:hover #consulting_services{display:block;transition:.5s ease-in-out;}
+.icon_group_services:hover #fleetmgt_services, .icon_group_services:hover #cloud_servi_services, .icon_group_services:hover #data_analytics__services{display:block;transition:all 0.5s linear;}
+/*Connected & Internet Cars End*/
+/*Navigation and mapping Start*/
+.mappint_grid_style_one{transition:all ease 1s;box-shadow:0px 10px 11px -10px #000;background:#f5f5f5;padding:15px;}
+section.ai-section-third.adas-section-third.navigation_grid_style .row>div{margin:auto;padding:10px 10px;}
+
+.mappint_grid_style_one:hover{box-shadow:0px 0px 20px #999;transform:translate(0, -2%)}
+.container.borderbotom{border-bottom:2px solid #efefef;padding-bottom:50px;}
+.navigationsection-section-fourth{background-blend-mode:overlay;background-color:#64678e !important;padding:75px 0;background:url(/wp-content/uploads/2018/11/upgrade_magento_services_background_image.jpg) no-repeat center;background-size:cover;}
+.bgcolor_border>div h3:after{background:#444444;height:2px;}
+.bgcolor_border .col-md-12{background:#ffffff;}
+/*Navigation and Mapping End*/
+/*===adas page=====*/
+
+.automotive_home_services_list{	max-width:1140px;margin:0 auto;width:100%;z-index:2;}
+/*IOT ebmedded*/
+.iot-embedded-page .adas-section-fixed-width .row{display:flex;flex-wrap:wrap;width:100%;margin:auto;}
+.iot-embedded-page .adas-section-fixed-width .row>div{display:flex;}
+/*Automotive Security*/
+.automotive-security-page .adas-section-fourth{background-blend-mode:overlay;background-color:#64678e !important;background:url(/wp-content/uploads/2018/11/upgrade_magento_services_background_image.jpg) no-repeat center;background-size:cover;}
+.automotive-security-page .adas-section-fourth h2{color:#ffffff;}
+.automotive-security-page .adas-section-fixed-width .adas-trust-box{box-shadow:none;}
+.automotive-security-page .adas-section-fixed-width:before, .automotive-security-page .adas-section-fixed-width:after{content:none;}
+/*Human Machine Interface*/
+.HMI-page section.ai-section-third.adas-section-third .row{display:flex;flex-wrap:wrap;align-items:center;justify-content:center;}
+.HMI-page section.ai-section-third.adas-section-third .row>div{display:flex;padding:10px 20px;flex-wrap:wrap;justify-content:center;margin:0;align-self:baseline;padding:20px;}
+.HMI-page .adas-section-fourth .adas-section-fixed-width:before, .HMI-page .adas-section-fourth .adas-section-fixed-width:after{content:none;}
+.HMI-page .ai-section-third.adas-section-third .col-md-4.col-sm-6.text-center h4{color:#337ab7;}
+.HMI-page .ai-section-third.adas-section-third h4:after{content:'';display:block;height:2px;background:#ff5200;margin-top:10px;max-width:100px;margin:15px auto 0;}
+/*Telematics*/
+.telematics-page #telematics-mid-cta{background:url('/wp-content/uploads/2019/09/telematics/telematics-cta-bg.jpg');background-blend-mode:overlay;background-color:#1f1f1f;}
+.telematics-page .inner-section-third{color:#ffffff;display:flex;flex-wrap:wrap;margin:10px 0px;min-height:250px;padding:25px;align-items:center;justify-content:center;}
+#fleet-mgmt{background:url('/wp-content/uploads/2019/09/telematics/Fleet-Management.jpg');}
+#connected-cars{background:url('/wp-content/uploads/2019/09/telematics/Connected-Cars.jpg');}
+#Insurance-telematics{background:url('/wp-content/uploads/2019/09/telematics/Insurance-Telematics.jpg');}
+#Remote-Vehicle{background:url('/wp-content/uploads/2019/09/telematics/Remote-Vehicle-diagnostics.jpg');}
+#fleet-mgmt, #connected-cars, #Insurance-telematics, #Remote-Vehicle{background-blend-mode:overlay;background-size:cover;background-color:#182431fc;}
+.telematics-page .inner-section-third h4{font-size:25px;position:relative;}
+.telematics-page .ai-section-third{background-size:cover;background:url('/wp-content/themes/lespaul-child/images/automotive_talk_expert_bg.png');}
+.telematics-page .telematic-sub-heading{font-size:1.125rem;max-width:1000px;margin:auto;padding:5px;}
+.telematics-page section.ai-section-third p{color:#ffffff;font-weight:300;letter-spacing:0.25px;margin-top:20px;}
+
+.telematics-page .ai-section-sixth{padding:50px 0;background:url(/wp-content/uploads/2019/09/ai-bg-pattern-1.png) top 95% left 46%/10% no-repeat, url(/wp-content/uploads/2019/09/ai-bg-pattern-2.png) top 71% right 8%/10% no-repeat, url(/wp-content/uploads/2019/09/ai-bg-pattern-3.png) top 10% left 5%/10% no-repeat;}
+.telematics-page #another-ai-section-sixth{background:url(/wp-content/uploads/2019/09/ai-bg-pattern-1.png) top 95% left 52%/10% no-repeat, url(/wp-content/uploads/2019/09/ai-bg-pattern-2.png) top 10% right 7%/10% no-repeat, url(/wp-content/uploads/2019/09/ai-bg-pattern-3.png) top 10% left 10%/10% no-repeat;}
+section.telematics-solution .container{padding:60px 0;border-bottom:2px solid #efefef;border-top:2px solid #efefef;}
+.telematic-solution-inner img{width:35px;padding:0 0 5px 0px;float:left;margin-right:10px;}
+.telematic-solution-inner{padding:15px 5px;}
+.telematic-solution-inner h4{font-size:1.125rem;letter-spacing:0.25px;color:#005AA8;}
+.telematic-solution-inner p{line-height:25px;margin-top:8px;}
+section.telematics-solution .row{align-items:center;display:flex;flex-wrap:wrap;justify-content:center;margin:auto;}
+.telematic-solution-inner h2{line-height:1.2;position:relative;}
+.telematic-solution-inner h2:after{content:"";width:70px;height:3px;background:#ff5200;position:absolute;left:0;bottom:-20px;}
+/*=======Smart Bikes=======*/
+.smart-bike-page .ai-section-third.adas-section-third img{margin:auto;width:40px;}
+.smart-bike-page section.adas-section-second{padding:50px 20px 20px 20px;}
+.HMI-page .ai-section-third.adas-section-third h4{color:#337ab7;}
+.HMI-page .ai-section-third.adas-section-third .col-md-6.col-sm-6.text-center h4:after{content:'';display:block;height:2px;background:#337ab7;margin-top:10px;max-width:100px;margin:15px auto 0;}
+.smart-bike-page section.ai-section-third.adas-section-third h2{color:#000000;}
+.smart-bike-page .adas-section-fixed-width .shaded-box-1:before{background-image:url('/wp-content/uploads/2019/09/smart-bikes/brand-and-label.png') !important;opacity:0.05;background-size:140px;background-position:right 100px top;}
+.smart-bike-page .adas-section-fixed-width .shaded-box-2:before{background-image:url('/wp-content/themes/lespaul-child/images/motorcycle.svg') !important;opacity:0.05;background-size:140px;background-position:right 60px top;}
+.smart-bike-page .HMI-page section.ai-section-third.adas-section-third .row>div{display:flex;flex-wrap:wrap;justify-content:center;margin:0;align-self:baseline;}
+.smart-bike-page .ai-section-seventh .centered-border{border-top:none;}
+.smart-bike-page .HMI-page .ai-section-third.adas-section-third .col-md-6.col-sm-6.text-center h4:after{content:none;}
+.telematics-page .sixth-section-content ul li{position:relative;padding:5px 0;}
+.telematics-page .sixth-section-content ul{list-style:none;}
+.telematics-page .sixth-section-content ul li:before{content:'';position:absolute;top:15px;left:-20px;width:7px;height:7px;border-radius:50%;background:#005aa8;}
+.solution-template .breadcrumbs.wrap{display:none;}
+.automotive_connected_internet_cars .sixth-section-content ul{list-style:none;padding-top:20px;}
+.automotive_connected_internet_cars .sixth-section-content ul li{position:relative;font-size:15px;padding-bottom:10px;margin:0;}
+.automotive_connected_internet_cars .sixth-section-content ul li:before{content:'';position:absolute;top:9px;left:-20px;width:7px;height:7px;border-radius:50%;background:#005AA8;}
+.fixed_services{position:sticky;top:56px;}
+.connectivity-power-inner{background-color:#fff;padding:25px 15px 15px;box-shadow:0 0 13px -4px rgba(0, 0, 0, .17);border-radius:10px;}
+.circle-img{background-color:#fff;box-shadow:0 2px 5px rgba(0, 0, 0, .12);border-radius:50%;width:90px;height:90px;display:flex;align-items:center;justify-content:center;margin:20px auto 25px;}
+/*Smart bike Page*/
+.connectivity-power-outer, .connectivity-power-inner{display:flex;flex-wrap:wrap;justify-content:center;}
+.power-connectivity h4{color:#337ab7;font-size:1.125rem;margin-top:20px;font-weight:600;width:100%;}
+.power-connectivity h4:after{content:'';display:block;height:2px;background:#ff5200;margin-top:10px;max-width:100px;margin:15px auto 0;}
+.more-services-bikes h4{font-size:22px;}
+.connectivity-power-inner img{width:45px;}
+/*Connected & Internet Cars*/
+.automotive_connected_internet_cars .sixth-section-content h2{font-size:28px;}
+.connected_cars-section-sixth img{width:100%;}
+.key_features_wrappper.adas-trust-box h3{font-size:20px;font-weight:bold;line-height:1.4;}
+.key_features_wrappper.adas-trust-box p{color:#5e5e5e;}
+.services-dropdown-mobile{display:none;}
+/*Telematics Page*/
+.telematics-page .inner-section-third h4:after{content:'';width:100px;height:2px;background:#fff;position:absolute;margin:0 auto;left:0;right:0;bottom:-15px;}
+/*new automotive css*/
+.automotive-security-page .outer-section-third-security{display:flex;flex-wrap:wrap;justify-content:center;margin:8px 0;}
+.automotive-security-page .inner-section-third-security{background-color:#fff;padding:25px 15px 15px;box-shadow:0 0 13px -4px rgba(0, 0, 0, .17);border-radius:10px;}
+.adas-trust-box h3{font-weight:500;}
+.ai-section-seventh h3{font-size:35px;}
+.automotive-security-page .ai-section-fifth .centered-border{border-bottom:2px solid #efefef;padding-bottom:40px;}
+.automotive-security-page .ai-section-fifth{padding:50px 0 0 0;}
+
+.parent_sectionnavigation_mapping .mappint_grid_style_one{transition:all 0.5s ease 0s;background:rgba(235, 239, 245, 0.44);padding:20px 15px;box-shadow:none;}
+.parent_sectionnavigation_mapping .mappint_grid_style_one:hover{box-shadow:0px 0px 10px #e2e1e1;transform:translate(0, -2%);background:#ffffff;}
+.automotive-security-page .adas-section-fixed-width .adas-trust-box{margin:18px 0;}
+.HMI-page .adas-section-fixed-width .adas-trust-box{margin:16px 0;}
+.parent-section-adas-page .adas-section-fixed-width .adas-trust-box{margin:16px 0;}
+.img-cum-text{display:flex;align-items:center;padding:10px 0;}
+.img-cum-text h3{padding-left:10px;margin:0;font-size:20px;font-weight:bold;line-height:1.4;}
+.HMI-page .adas-trust-box p, .parent-section-adas-page .adas-trust-box p, .automotive-security-page .adas-trust-box p{color:#5e5e5e;}
+/*New Homepage*/
+.automotive_home_new .automotive_new_banner{width:100%;display:block;position:relative;}
+.automotive_home_new .automotive_new_banner img{width:100%;z-index:-1;position:relative;}
+.automotive_home_new .automotive_new_banner h1{font-size:76px;color:#fff;}
+.automotive_home_new .automotive_new_banner h3{font-weight:500;font-size:33px;color:#fff;margin-bottom:26px;}
+.automotive_home_new .automotive_new_banner p{line-height:30px;color:#fff;font-weight:400;}
+.automotive_home_new .automotive_new_banner .automotive_new_banner_overlay_content{position:absolute;top:50%;left:auto;transform:translate(0, -50%);width:29%;}
+.automotive_home_new section.automotive_home_services .automotive_home_services_list_main{margin-top:-100px;z-index:1;position:initial;}
+.automotive_home_new section.automotive_home_services .automotive_home_services_list_main .services_title{position:relative;}
+.automotive_home_new section.automotive_home_services .automotive_home_services_list_main .services_title:after{background:url(../images/automotive_services_arrow.png) no-repeat;content:'';position:absolute;top:5px;left:120px;width:44px;height:24px;}
+.automotive_home_new section.automotive_home_services .automotive_home_services_list_main .services_title h2{font-size:24px;color:#fff;font-weight:400;margin-bottom:22px;}
+.automotive_home_new section.automotive_home_services .automotive_home_services_list_main .automotive_home_services_list{background:#005aa8;display:block;}
+.automotive_home_new section.automotive_home_services .automotive_home_services_list_main .automotive_home_services_list ul{display:flex;flex-wrap:wrap;align-items:center;list-style:none;margin:0;padding:0;font-size:0;}
+.automotive_home_new section.automotive_home_services .automotive_home_services_list_main .automotive_home_services_list ul li{width:11%;text-align:center;transition:.2s ease-in-out;}
+.automotive_home_services_list ul li a{display:flex;font-size:13px;color:#fff;/*font-family:'Poppins', sans-serif;*/
+ font-weight:400;padding:10px 5px;height:60px;display:flex;align-items:center;justify-content:center;transition:.5s ease-in-out;border-bottom:2px solid #005aa8;}
+.automotive_home_services_list ul li a:hover, .automotive_home_services_list ul li a:focus{background-color:#fff;color:#005aa8 !important;text-decoration:none;}
+.automotive_home_new section.automotive_home_services_car_zom{width:100%;display:block;background:url(../images/automotive_left_image_new.jpg) no-repeat left center;padding:60px 0;}
+.automotive_home_new section.automotive_home_services_car_zom .automotive_home_services_car_zom_left img{width:100%;}
+.automotive_home_new section.automotive_home_services_car_zom .automotive_home_services_car_zom_right ul{list-style:none;margin:0;padding-top:24px;}
+.automotive_home_new section.automotive_home_services_car_zom .automotive_home_services_car_zom_right ul li{position:relative;margin:0 0 25px;padding:0 0 0 22px;font-weight:300;font-size:16px;color:#000;}
+.automotive_home_services_car_zom_right ul li:before{content:'';position:absolute;top:10px;left:0;width:9px;height:9px;border-radius:50%;background:#f05523;}
+section.automotive_home_talk_an_expert{background:url(../images/automotive_talk_expert_bg.png) no-repeat;background-size:cover;margin-top:-1px;padding:50px 0;}
+section.automotive_home_talk_an_expert .automative_home_talk_an_expert_main .automotive_home_talk_an_expert_left span{font-size:30px;color:#000;line-height:38.8px;}
+section.automotive_home_talk_an_expert .automative_home_talk_an_expert_main .automotive_home_talk_an_expert_right a{max-width:248px;width:100%;height:58px;background:#f05523;display:inline-block;vertical-align:middle;line-height:58px;color:#fff;text-align:center;border-radius:4px;font-size:20px;font-weight:400;}
+section.automative_home_expertise_new{padding:85px 0;}
+section.automative_home_expertise_new .automative_home_expertise_new_main .automative_home_expertise_new_left h1:after{position:absolute;border-bottom:2px solid #2234e3;content:'';bottom:-25px;width:85px;left:0;}
+section.automative_home_expertise_new .automative_home_expertise_new_main .automative_home_expertise_new_right ul{list-style:none;margin:0;padding:0;}
+section.automative_home_expertise_new .automative_home_expertise_new_main .automative_home_expertise_new_right ul li{width:49%;padding:0px 15px 25px 15px;display:inline-block;box-sizing:border-box;vertical-align:top;margin-top:0;}
+section.automative_home_expertise_new .automative_home_expertise_new_main .automative_home_expertise_new_right ul li:last-child{width:100%;}
+section.automative_home_expertise_new .automative_home_expertise_new_main .automative_home_expertise_new_right ul li h3{margin-top:10px;font-size:20px;color:#005aa8;font-weight:600;}
+section.automative_home_expertise_new .automative_home_expertise_new_main .automative_home_expertise_new_right ul li p{line-height:26px;font-size:16px;color:#5c5c5c;font-weight:400;}
+section.automative_home_expertise_new .automative_home_expertise_new_main .automative_home_expertise_new_left img{width:100%;}
+.automate_technology_partner{background:url('../images/automotive_technology_partner.png') no-repeat;background-size:cover;padding:70px 0;}
+.automate_technology_partner_main .row{display:flex;flex-wrap:wrap;}
+.automate_technology_partner .automate_technology_partner_main p{font-size:16px;font-weight:400;line-height:1.6;color:#fff;text-align:center;padding:20px 40px 40px;}
+.automate_technology_partner_list{background:#fff;text-align:center;padding:30px 15px;height:100%;}
+section .automate_technology_partner_list h2{font-size:22px;color:#000;margin:15px 0;}
+.automate_technology_partner .automate_technology_partner_main .automate_technology_partner_list p{font-size:1rem;color:#5c6571;font-weight:400;line-height:1.7;padding:0;}
+section.automotive_home_success_story{padding:120px 0;}
+section.automotive_home_success_story .automotive_home_success_story .automotive_home_success_story_left .automotive_home_success_story_left_img{position:relative;}
+section.automotive_home_success_story .automotive_home_success_story .automotive_home_success_story_left .automotive_home_success_story_left_img img{width:100%;}
+section .automotive_home_success_story_left_img_content{position:absolute;bottom:0;background:#FFF;width:90%;padding:20px 20px;box-shadow:-2px 2px 2px #efefef;}
+.automate_technology_partner_list_image{min-height:81px;}
+section .automotive_home_success_story_left_img_content h2{font-size:25px;color:#000;}
+section.automotive_home_success_story .automotive_home_success_story_left_img_content h2 a:hover{color:#000!important;}
+section.automotive_home_success_story .automotive_home_success_story .automotive_home_success_story_left .automotive_home_success_story_left_img .automotive_home_success_story_left_img_content p{font-weight:300;font-size:16px;color:#000;line-height:33px;}
+.insight-padding{padding-top:50px;}
+section.automotive_home_success_story .automotive_home_success_story .automotive_home_success_story_right{position:relative;}
+section.automotive_home_success_story .automotive_home_success_story .automotive_home_success_story_right img{width:100%;}
+section .automotive_home_success_story_left_img_content{position:absolute;bottom:0px;background:#FFF;width:90%;padding:20px 20px;box-shadow:-2px 2px 2px #efefef;}
+section.automotive_home_success_story .automotive_home_success_story .automotive_home_success_story_right .automotive_home_success_story_left_img_content h2{font-size:25px;color:#000;}
+section.automotive_home_success_story .automotive_home_success_story .automotive_home_success_story_right .automotive_home_success_story_left_img_content p{font-weight:300;font-size:16px;color:#000;line-height:33px;}
+.automotive_soultions_service_home{background:#e5ebf2;padding:50px 0 120px 0;display:block;}
+.automotive_soultions_service_home .automotive_soultions_service_home_main .technology{position:relative;}
+.automotive_soultions_service_home .automotive_soultions_service_home_main .technology img{width:100%;}
+.automotive_soultions_service_home .automotive_soultions_service_home_main .mobility{position:relative;}
+.automotive_soultions_service_home .automotive_soultions_service_home_main .mobility img{width:100%;}
+.automotive_soultions_service_home .automotive_soultions_service_home_main .distribution{position:relative;}
+.automotive_soultions_service_home .automotive_soultions_service_home_main .distribution img{width:100%;}
+.automotive_soultions_service_home .automotive_soultions_service_home_main .automotive_soultions_service_home_list_content{position:absolute;background:#e5ebf2;right:0;width:90%;padding:20px;top:50%;transform:translate(0, -50%);min-height:350px;}
+.automotive_soultions_service_home .automotive_soultions_service_home_main .automotive_soultions_service_home_list_content h3{fnt-size:30px;color:#12161b;margin-top:15px;margin-bottom:25px;}
+.automotive_soultions_service_home .automotive_soultions_service_home_main .automotive_soultions_service_home_list_content ul{list-style:none;margin:0;padding:0;}
+.automotive_soultions_service_home .automotive_soultions_service_home_main .automotive_soultions_service_home_list_content ul li{color:#5c6571;font-size:16px;font-weight:400;margin-bottom:26px;position:relative;padding-left:20px;}
+.automotive_soultions_service_home .automotive_soultions_service_home_main .automotive_soultions_service_home_list_content ul li:before{content:'';position:absolute;top:4px;left:0;width:9px;height:9px;border-radius:50%;background:#f05523;}
+.automotive_home_testimonial{padding:50px 0 100px 0;display:block;}
+.automotive_home_testimonial .automotive_home_testimonial_main .automotive_home_testimonial_list p{font-size:16px;color:#828282;line-height:33px;font-weight:500;padding-left:75px;position:relative;}
+.automotive_home_testimonial .automotive_home_testimonial_main .automotive_home_testimonial_list p:before{background:url('../images/automotive_testimonila_icon.png') no-repeat;width:50px;height:61px;content:'';position:absolute;left:0;}
+/*Navigation and Mapping*/
+.choose_in > div{padding:3rem 5rem 4rem;}
+.choose_in > div h3{font-size:21px;padding-bottom:20px;position:relative;}
+.choose_in > div h3:after{content:'';position:absolute;width:35%;left:50%;top:85%;transform:translate(-50%, -50%);}
+.choose_in.choose_in1 > div h3:after{border:1px solid #cd4884;}
+.choose_in.choose_in2 > div h3:after{border:1px solid #2cc5f4;}
+.choose_in.choose_in3 > div h3:after{border:1px solid #bfa169;}
+.choose_in > div p{margin-top:35px;}
+/*New*/
+.automative_home_expertise_new_left h1, .automate_technology_partner .automate_technology_partner_main h1, section.automotive_home_success_story .automotive_home_success_story .automotive_home_success_story_left h1, .automotive_soultions_service_home h1, .automotive_home_testimonial .automotive_home_testimonial_main h1, .automotive_home_services_car_zom_right h2{font-size:2.25rem;text-align:center;line-height:1.3}
+.automotive_home_services_car_zom_right h2{text-align:left;color:#000;}
+.automative_home_expertise_new_left h1{margin-top:0;color:#12161b;margin-bottom:80px;text-align:left;}
+.automate_technology_partner .automate_technology_partner_main h1{color:#fff;width:60%;margin:auto;}
+.automotive_home_success_story_left h1{color:#000;padding-bottom:50px;text-align:left !important;}
+.automotive_soultions_service_home h1{color:#000;max-width:75%;margin:0 auto 70px;}
+.automotive_home_testimonial .automotive_home_testimonial_main h1{color:#000;margin-top:45px;margin-bottom:75px;}
+
+@media(max-width:600px){
+	.automotive_home_new section.automotive_home_services .automotive_home_services_list_main .services_title{margin-top:-40px;}
+	ul.Technologies-we-laverage-2 li:last-child{display:none;}
+	.automotive_home_new.automotive_connected_internet_cars .ai-section-fifth h2{font-size:24px;}
+	.ai-banner{padding:50px 0 70px 0;}
+	.ai-banner h1{font-size:25px;}
+	.ai-banner p{font-size:16px;line-height:1.4;}
+	.solution-template section h2{font-size:25px !important;}
+	.dropdown.services-dropdown-mobile{display:block;margin-top:30px;}
+	.dropdown.services-dropdown-mobile button{width:100%;text-align:left;border:none;height:45px;}
+	.dropdown.services-dropdown-mobile button span{float:right;top:22px;position:absolute;right:10px;}
+	.dropdown.services-dropdown-mobile .dropdown-menu{width:100%;}
+}
+
+@media(max-width:767px){
+	section.ai-section-sixth .sixth-section-content.pl-4{padding-left:0 !important;padding-top:20px;}
+	section.ai-section-sixth .sixth-section-content.pr-5{padding-right:0 !important;padding-top:20px}
+	section.ai-section-seventh h3{font-size:25px;line-height:1.2;}
+	section.ai-section-eighth h3{text-align:center;font-size:25px;}
+	.ai-section-sixth h3{font-size:25px;}
+	section.ai-section-sixth h4{font-size:25px;line-height:1.2;text-align:center;}
+	.exprties_points{padding-left:0px;}
+	.adas-section-fourth{padding:30px 0px;}
+	.automotive_connected_internet_cars .automotive_new_banner_overlay_content a{display:none;}
+	.services_icons_block{width:100%;margin:unset;}
+	.icon_group_services{width:100%;text-align:center;}
+	.automotive_connected_internet_cars .automotive_new_banner_overlay_content h1{font-size:20px;}
+	.adas-section-fourth.keyfeatureofcicar h2{font-size:30px;line-height:normal;}
+	#consulting_services, #data_analytics__services, #cloud_servi_services, #fleetmgt_services{display:block;}
+	.icon_group_services p br{display:none;}
+	.icon_group_services{box-shadow:0 0 10px #999;}
+	.service_content_wrapper{width:100%;left:0;background:transparent;box-shadow:unset;padding:0;padding-top:10px;text-align:center;z-index:99;position:relative;top:0;}
+	.service_content_wrapper:before{display:none;}
+	.our_service_connected_cars{background-size:cover;}
+	.icon_group_services p{min-height:unset;}
+	.icon_group_services{cursor:pointer;margin-bottom:25px;margin-left:15px;margin-right:15px;background:#ffffff;padding:25px;}
+	section.adas-section-fourth.keyfeatureofcicar h2{font-size:25px;line-height:30px;}
+	.ai-section-fifth .centered-border{padding-bottom:30px;}
+	.adas-section-fourth h2{font-weight:bold;padding-bottom:0px;}
+	.are_you_ready_text{font-size:25px;line-height:normal;}
+	a.ai-cta.addbgcolor{font-size:16px;width:170px;}
+	.block_wrap_key h3{font-size:22px;}
+	.brd-btm.p40{padding:30px 0px;}
+	.last_row{padding-top:0px;}
+	.automotive_home_new.automotive_connected_internet_cars .ai-section-fifth{padding:30px 0 0 0;}
+	.automotive_home_new.automotive_connected_internet_cars .ai-section-fifth h2{font-size:30px;}
+	.ai-section-fifth h2{padding-bottom:10px;}
+	.row.rev-ord{padding-bottom:30px;}
+	.brd-btm.p40 p{font-weight:400;width:100%;margin:0 auto;margin-bottom:0px;font-size:14px;font-weight:normal;line-height:25px;}
+	.our_service_connected_cars h2{font-size:35px;line-height:normal;margin-bottom:0px;margin-top:0px;}
+	.our_service_connected_cars{padding:30px 0px;}
+	.connected_cars-section-sixth{padding:40px 0;}
+	.connected_cars-section-sixth h1{font-size:35px;line-height:normal;margin-bottom:40px;}
+	.exprties_points{font-size:14px;text-align:left;padding-left:0px;}
+	.connected_cars-section-sixth h2{line-height:25px;font-size:20px;margin-top:15px;}
+	.exprties_points li{list-style:none;}
+	.s_icon:after{display:none;}
+	.ai-section-seventh .Automotive-brands li{width:50%;}
+	.automotive_home_new .automotive_new_banner p{display:none;}
+	ul.Technologies-we-laverage-1 li, ul.Technologies-we-laverage-2 li{width:50%;display:flex;align-items:center;justify-content:center;}
+	.ai-section-fourth .fourth-section-content{margin-bottom:30px;}
+}
+@media(max-width:990px){.row.rev-ord{display:flex;flex-wrap:wrap;}
+	.row.rev-ord .col-md-6:first-child{order:2;}
+	.row.last_row{display:flex;flex-wrap:wrap;padding-top:30px;}
+	.row.last_row .col-md-6:first-child{order:2;}
+}
+@media(min-width:1024px) and (max-width:1200px){
+	section.ai-section-fourth.more-services-bikes .row > div{padding-top:30px;}
+}
+@media(min-width:768px) and (max-width:1023px){
+	.automotive_connected_internet_cars .sixth-section-content{padding-top:20px;}
+	section.ai-section-fourth .row div{padding:20px;}
+	.automotive_home_new .automotive_new_banner p{line-height:22px;font-size:14px;}
+	.connected_cars-section-sixth{padding:30px 0;}
+	.connected_cars-section-sixth h1{font-size:35px;margin-bottom:40px;}
+	.connected_cars-section-sixth h2{font-weight:600;margin-bottom:10px;color:#015ba8;line-height:30px;font-size:25px;margin-top:15px;}
+	.ai-section-sixth .sixth-section-content{text-align:center;}
+	section.ai-section-sixth .row{margin:auto;}
+	section.ai-section-sixth .row>div{margin:auto;}
+	.ai-section-second .div-for-border img{width:95%;}
+	.ai-section-fourth .col-md-12.text-white.text-center{width:100%;text-align:center;}
+	.ai-section-fifth .Technologies-we-laverage-2, .ai-section-fifth .Technologies-we-laverage-1{flex-wrap:nowrap;}
+}
+@media(max-width:1200px){
+	.connected_cars-section-sixth h2{margin-bottom:15px;line-height:30px;font-size:25px;}
+	.exprties_points{font-size:14px;line-height:20px;padding-left:20px;font-weight:400;}
+	.automotive_connected_internet_cars .automotive_new_banner_overlay_content.max-w-31{width:70%;}
+	.automotive_home_new section.automotive_home_services .automotive_home_services_list_main .automotive_home_services_list ul li a{font-size:13px;}
+	.automotive_connected_internet_cars .automotive_new_banner_overlay_content h1{font-size:30px;margin-top:0px;}
+	.automotive_home_new .automotive_new_banner p{line-height:25px;color:#fff;font-weight:400;}
+}
+
+/*Media Query*/
+@media(max-width:1023px){
+	section.adas-section-second{padding:30px 10px!important;}
+	.adas-section-fourth h2{padding:0 20px;}
+	.adas-section-fixed-width .row{margin:auto;}
+	.adas-section-fixed-width{padding:0 20px;}
+	.telematics-page .sixth-section-content ul li{text-align:left;}
+	.smart-bike-page .connectivity-power-outer{padding:20px;}
+	.telematics-page section.ai-section-third p{padding-top:15px;}
+	.adas-section-fixed-width:before, .adas-section-fixed-width:after{display:none;}
+	section.ai-section-sixth .row{padding:30px 0;}
+	section.ai-section-eighth .row>div{padding-top:15px;padding-bottom:15px;}
+	section.adas-section-second p{width:100%;}
+}
+
+/*New Homepage Responsive*/
+@media(max-width:767px){
+	.automotive_connected_internet_cars .sixth-section-content{padding-top:20px;}
+	.automotive_home_new section.automotive_home_services_car_zom{background:none;padding:30px 0;}
+	.automotive_home_new section.automotive_home_services_car_zom .automotive_home_services_car_zom_right h2{margin-top:30px;line-height:34px;font-size:28px;text-align:center;}
+	section.automotive_home_talk_an_expert .automative_home_talk_an_expert_main .automotive_home_talk_an_expert_left{text-align:center !important;}
+	section.automotive_home_talk_an_expert .automative_home_talk_an_expert_main .automotive_home_talk_an_expert_left span{font-size:24px;line-height:34px;}
+	section.automotive_home_talk_an_expert .automative_home_talk_an_expert_main .automotive_home_talk_an_expert_right.text-right{text-align:center !important;margin:25px 0 0}
+	section.automative_home_expertise_new{padding:30px 0;}
+	section.automative_home_expertise_new .automative_home_expertise_new_main .automative_home_expertise_new_left{text-align:center;}
+	section.automative_home_expertise_new .automative_home_expertise_new_main .automative_home_expertise_new_left h1:after{width:100%;bottom:-20px;}
+	section.automative_home_expertise_new .automative_home_expertise_new_main .automative_home_expertise_new_left h1{font-size:26px;text-align:center;display:inline-block;}
+	section.automative_home_expertise_new .automative_home_expertise_new_main .automative_home_expertise_new_right{margin-top:40px;}
+	section.automative_home_expertise_new .automative_home_expertise_new_main .automative_home_expertise_new_right ul li{width:100%;padding:15px;margin-bottom:15px;box-shadow:0px 0px 2px 2px #ccc;border-radius:4px;}
+	.automate_technology_partner .automate_technology_partner_main h1{font-size:26px;width:100%;}
+	.automate_technology_partner .automate_technology_partner_main p{padding:0;margin-bottom:25px;}
+	.automate_technology_partner .automate_technology_partner_main .automate_technology_partner_list{max-height:inherit;margin-bottom:15px;}
+	.automate_technology_partner{padding:55px 0}
+	.automotive_home_new section.automotive_home_services .automotive_home_services_list_main .automotive_home_services_list ul li{width:100%;border-bottom:1px solid #fff;}
+	.automotive_home_new section.automotive_home_services .automotive_home_services_list_main{margin-top:0;}
+	section.automotive_home_success_story .automotive_home_success_story .automotive_home_success_story_left .automotive_home_success_story_left_img .automotive_home_success_story_left_img_content h2, section.automotive_home_success_story .automotive_home_success_story .automotive_home_success_story_right .automotive_home_success_story_left_img_content h2{font-size:20px;}
+	section.automotive_home_success_story .automotive_home_success_story .automotive_home_success_story_left .automotive_home_success_story_left_img .automotive_home_success_story_left_img_content p, section.automotive_home_success_story .automotive_home_success_story .automotive_home_success_story_right .automotive_home_success_story_left_img_content p{font-size:14px;line-height:24px;}
+	section.automotive_home_success_story .automotive_home_success_story .automotive_home_success_story_left h1{font-size:26px;padding-bottom:20px;text-align:center;}
+	section.automotive_home_success_story{padding:20px 0 100px 0;}
+	.automotive_soultions_service_home{padding:35px 0}
+	.automotive_soultions_service_home h1{font-size:26px;line-height:34px;max-width:100%;margin:0 auto 30px;}
+	.automotive_soultions_service_home .automotive_soultions_service_home_main .technology, .automotive_soultions_service_home .automotive_soultions_service_home_main .mobility{margin-bottom:15px;}
+	.automotive_home_testimonial .automotive_home_testimonial_main h1{font-size:26px;margin-top:0;margin-bottom:25px;}
+	.automotive_home_testimonial{padding:50px 0}
+	.automotive_home_new section.automotive_home_services .automotive_home_services_list_main .automotive_home_services_list ul li:last-child{border:none;}
+	.automotive_home_new section.automotive_home_services .automotive_home_services_list_main .automotive_home_services_list{border-radius:4px;background:#fff;box-shadow:0px 0px 3px 2px #efefef;margin-top:20px;}
+	.automotive_home_services_list ul li a{height:inherit;color:#333;text-align:left;display:block;border-bottom:1px solid #c1c1c1;padding:10px 15px;font-weight:600;}
+	.automotive_home_services_list ul li:last-child a{border-bottom:0px;}
+	.automotive_home_new .automotive_new_banner .automotive_new_banner_overlay_content{position:absolute;left:0;width:100%;padding:0 10px;}
+	.automotive_home_new .automotive_new_banner h1{font-size:26px;}
+	.automotive_home_new .automotive_new_banner h3{font-size:13px;margin:0;}
+	.automotive_home_new .automotive_new_banner p{line-height:1.5;font-size:11px;margin-top:7px;}
+}
+
+@media(min-width:768px) and (max-width:1023px){
+	.automotive_home_new section.automotive_home_services_car_zom{padding:30px 0;background-size:45% 65%;}
+	.automotive_home_new section.automotive_home_services_car_zom .automotive_home_services_car_zom_right h2{font-size:30px;}
+	section.automative_home_expertise_new .automative_home_expertise_new_main .automative_home_expertise_new_left h1{font-size:30px;}
+	section.automative_home_expertise_new .automative_home_expertise_new_main .automative_home_expertise_new_right ul li h3{font-size:16px;}
+	section.automative_home_expertise_new{padding:65px 0 35px;}
+	section.automotive_home_talk_an_expert .automative_home_talk_an_expert_main .automotive_home_talk_an_expert_left span{font-size:26px;}
+	section.automotive_home_talk_an_expert .automative_home_talk_an_expert_main .automotive_home_talk_an_expert_left{text-align:center !important;}
+	section.automotive_home_talk_an_expert .automative_home_talk_an_expert_main .automotive_home_talk_an_expert_right.text-right{text-align:center !important;margin:25px 0 0}
+	.automate_technology_partner .automate_technology_partner_main h1{font-size:29px;width:100%;}
+	.automate_technology_partner .automate_technology_partner_main .automate_technology_partner_list{max-height:380px;margin-bottom:30px;}
+	.automate_technology_partner{padding:70px 0 60px 0;}
+	.automotive_soultions_service_home .automotive_soultions_service_home_main .automotive_soultions_service_home_list_content{min-height:280px;padding:10px;}
+	.automotive_soultions_service_home .automotive_soultions_service_home_main .automotive_soultions_service_home_list_content h3{font-size:22px;margin-top:15px;margin-bottom:15px;}
+	.automotive_soultions_service_home .automotive_soultions_service_home_main .automotive_soultions_service_home_list_content ul li{margin-bottom:15px;font-size:14px;}
+	.automotive_soultions_service_home h1{font-size:26px;line-height:30px;margin:0 auto 40px;}
+	.automotive_soultions_service_home{padding:50px 0 60px 0;}
+	.automotive_home_new .automotive_new_banner .automotive_new_banner_overlay_content{width:100%;padding:0 15px;left:0;top:40%;}
+	.automotive_home_new .automotive_new_banner h1{font-size:46px;margin-top:0}
+	.automotive_home_new .automotive_new_banner h3{font-size:24px;margin:0;}
+	.automotive_home_new section.automotive_home_services .automotive_home_services_list_main .automotive_home_services_list ul li a{font-size:11px;}
+	section.automotive_home_success_story{padding:60px 0;}
+	section.automotive_home_success_story .automotive_home_success_story .automotive_home_success_story_left h1{font-size:30px;padding-bottom:20px;}
+	section.automotive_home_success_story .automotive_home_success_story .automotive_home_success_story_left .automotive_home_success_story_left_img .automotive_home_success_story_left_img_content h2, section.automotive_home_success_story .automotive_home_success_story .automotive_home_success_story_right .automotive_home_success_story_left_img_content h2{font-size:24px;}
+	section.automotive_home_success_story .automotive_home_success_story .automotive_home_success_story_left .automotive_home_success_story_left_img .automotive_home_success_story_left_img_content p, section.automotive_home_success_story .automotive_home_success_story .automotive_home_success_story_right .automotive_home_success_story_left_img_content p{font-size:14px;line-height:24px;}
+	.automotive_home_testimonial .automotive_home_testimonial_main h1{font-size:32px;margin-top:0;margin-bottom:40px;}
+	.automotive_home_testimonial{padding:50px 0}
+}
+
+@media(min-width:1024px) and (max-width:1199px){
+	.automotive_home_new .automotive_new_banner .automotive_new_banner_overlay_content{width:100%;padding:15px;left:0;}
+	.automotive_home_new section.automotive_home_services_car_zom{background-size:45% 80%;}
+	.automate_technology_partner .automate_technology_partner_main h1{font-size:39px;width:100%;}
+	.automate_technology_partner .automate_technology_partner_main .automate_technology_partner_list h2{font-size:19px;margin-top:10px;}
+	.automotive_soultions_service_home .automotive_soultions_service_home_main .automotive_soultions_service_home_list_content{min-height:inherit;}
+}
+
+@media(min-width:1200px) and (max-width:1399px){
+	.automotive_home_new .automotive_new_banner .automotive_new_banner_overlay_content{width:50%;}
+	.automotive_home_new section.automotive_home_services_car_zom{background-size:45% 100%;}
+}
+
+@media (max-width:767px){
+	.choose_in > div{padding:0.5rem 1rem 1rem !important;margin-bottom:15px;}
+	.insight-padding, .insight-padding-2{padding-top:30px;}
+}
+
+@media (max-width:1023px){
+	a.ai-cta.addbgcolor{float:none;margin:auto;margin-top:20px;}
+}
+
+/*Bootstrap 4*/
+.d-flex{display:flex;}
+.flex-wrap{flex-wrap:wrap;}
+.align-items-center{align-items:center;}
+.border-bottom-0{border-bottom:0px !important;}
+.m-0{margin:0 !important}
+.mt-0, .my-0{margin-top:0 !important}
+.mr-0, .mx-0{margin-right:0 !important}
+.mb-0, .my-0{margin-bottom:0 !important}
+.ml-0, .mx-0{margin-left:0 !important}
+.m-1{margin:.25rem !important}
+.mt-1, .my-1{margin-top:.25rem !important}
+.mr-1, .mx-1{margin-right:.25rem !important}
+.mb-1, .my-1{margin-bottom:.25rem !important}
+.ml-1, .mx-1{margin-left:.25rem !important}
+.m-2{margin:.5rem !important}
+.mt-2, .my-2{margin-top:.5rem !important}
+.mr-2, .mx-2{margin-right:.5rem !important}
+.mb-2, .my-2{margin-bottom:.5rem !important}
+.ml-2, .mx-2{margin-left:.5rem !important}
+.m-3{margin:1rem !important}
+.mt-3, .my-3{margin-top:1rem !important}
+.mr-3, .mx-3{margin-right:1rem !important}
+.mb-3, .my-3{margin-bottom:1rem !important}
+.ml-3, .mx-3{margin-left:1rem !important}
+.m-4{margin:1.5rem !important}
+.mt-4, .my-4{margin-top:1.5rem !important}
+.mr-4, .mx-4{margin-right:1.5rem !important}
+.mb-4, .my-4{margin-bottom:1.5rem !important}
+.ml-4, .mx-4{margin-left:1.5rem !important}
+.m-5{margin:3rem !important}
+.mt-5, .my-5{margin-top:3rem !important}
+.mr-5, .mx-5{margin-right:3rem !important}
+.mb-5, .my-5{margin-bottom:3rem !important}
+.ml-5, .mx-5{margin-left:3rem !important}
+.p-0{padding:0 !important}
+.pt-0, .py-0{padding-top:0 !important}
+.pr-0, .px-0{padding-right:0 !important}
+.pb-0, .py-0{padding-bottom:0 !important}
+.pl-0, .px-0{padding-left:0 !important}
+.p-1{padding:.25rem !important}
+.pt-1, .py-1{padding-top:.25rem !important}
+.pr-1, .px-1{padding-right:.25rem !important}
+.pb-1, .py-1{padding-bottom:.25rem !important}
+.pl-1, .px-1{padding-left:.25rem !important}
+.p-2{padding:.5rem !important}
+.pt-2, .py-2{padding-top:.5rem !important}
+.pr-2, .px-2{padding-right:.5rem !important}
+.pb-2, .py-2{padding-bottom:.5rem !important}
+.pl-2, .px-2{padding-left:.5rem !important}
+.p-3{padding:1rem !important}
+.pt-3, .py-3{padding-top:1rem !important}
+.pr-3, .px-3{padding-right:1rem !important}
+.pb-3, .py-3{padding-bottom:1rem !important}
+.pl-3, .px-3{padding-left:1rem !important}
+.p-4{padding:1.5rem !important}
+.pt-4, .py-4{padding-top:1.5rem !important}
+.pr-4, .px-4{padding-right:1.5rem !important}
+.pb-4, .py-4{padding-bottom:1.5rem !important}
+.pl-4, .px-4{padding-left:1.5rem !important}
+.p-5{padding:3rem !important}
+.pt-5, .py-5{padding-top:3rem !important}
+.pr-5, .px-5{padding-right:3rem !important}
+.pb-5, .py-5{padding-bottom:3rem !important}
+.pl-5, .px-5{padding-left:3rem !important}

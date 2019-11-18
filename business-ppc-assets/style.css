@@ -1,0 +1,578 @@
+@font-face {
+    font-family: 'Century Gothic';
+    src: url('fonts/CenturyGothic.woff2') format('woff2'),
+        url('fonts/CenturyGothic.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Century Gothic Bold';
+    src: url('fonts/CenturyGothic-Bold.woff2') format('woff2'),
+        url('fonts/CenturyGothic-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Century Gothic BoldItalic';
+    src: url('fonts/CenturyGothic-BoldItalic.woff2') format('woff2'),
+        url('fonts/CenturyGothic-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Century Gothic Italic';
+    src: url('fonts/CenturyGothic-Italic.woff2') format('woff2'),
+        url('fonts/CenturyGothic-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Raleway Bold';
+    src: url('fonts/Raleway-Bold.woff2') format('woff2'),
+        url('fonts/Raleway-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Raleway Medium';
+    src: url('fonts/Raleway-Medium.woff2') format('woff2'),
+        url('fonts/Raleway-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Raleway Regular';
+    src: url('fonts/Raleway-Regular.woff2') format('woff2'),
+        url('fonts/Raleway-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Raleway Thin';
+    src: url('fonts/Raleway-Thin.woff2') format('woff2'),
+        url('fonts/Raleway-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Georgia Bold';
+    src: url('fonts/Georgia-Bold.woff2') format('woff2'),
+        url('fonts/Georgia-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+.no-header-fixed #header{display:none;}
+
+html{
+	font-size:inherit;
+}
+body{
+	font-family: 'Century Gothic';
+    font-weight: normal;
+	font-style: normal;
+	overflow-x: hidden;
+}
+.mb20 {
+	margin-bottom: 20px !important;
+}
+.mt30 {
+	margin-top: 30px !important;
+}
+
+.just_center {
+	justify-content: center;
+}
+.slider-sec {
+	width: 100%;
+    position: relative;
+}
+.slider-sec > img {
+	width: 100%;
+}
+.sliderInner-content {
+    position: absolute;
+    top: 20px;
+    margin: 0 auto;
+    left: 0;
+    right: 0;
+}
+.email-info a {
+	display: inline-block;
+    text-decoration: none !important;
+    color: #000;
+    font-weight: bold;
+    margin-right: 10px;
+}
+.email-info a i {
+    width: 30px;
+    height: 30px;
+    background: #f05523;
+    color: #fff;
+    border-radius: 50%;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+	margin-right: 5px
+}
+.fa.fa-phone{
+	transform: rotate(95deg);
+}
+.slider-content {}
+.slider-content h1{
+	font-family: 'Century Gothic Bold';
+}
+.slider-content p {}
+.slider-content p {
+	font-size: 17px;
+	font-family: 'Raleway Regular';
+}
+.slider-content a {
+	display: flex;
+}
+.slider-content a:hover,.slider-content a:focus, .slider-content a button:focus {
+	outline: none;
+	text-decoration: none;
+	border:none;
+}
+.slider-content a button{
+	border: none;
+    background: #74bf26;
+    background-image: linear-gradient(#7dc729, #439516);
+    color: #fff;
+    padding: 4px 30px 4px 8px;
+    border-radius: 31px;
+    font-size: 16px;
+    font-weight: 500;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+	text-shadow: none;
+    box-shadow: none;
+	top:inherit;
+	transition: .5s;
+}
+.slider-content a button:hover{
+	top:inherit;
+	background-image: linear-gradient(#439516, #7dc729);
+	transition: .5s;
+}
+.slider-content a button i{
+	width: 40px;
+    height: 40px;
+    background: #fff;
+    color: #74bf26;
+    border-radius: 50%;
+    margin-right: 5px;
+	line-height: 40px;
+}
+.slider-content a button span {
+	display: inline-block;
+    vertical-align: middle;
+    text-align: left;
+}
+.get_a_quote{
+	border: 1px solid #e9e9e9;
+}
+.get_a_quote span{}
+.get_a_quote h2{
+	color:#f05523;
+	font-family: 'Century Gothic Bold';
+}
+.get_a_quote .form-group .form-control{
+	border-radius: 0;
+	padding: .575rem .75rem;
+	font-size: 15px;
+	font-family: 'Raleway Regular';
+	border: 1px solid #e3e7ea;
+	background: #fff;
+	height: 40px;
+}
+.get_a_quote .form-group textarea{
+	height:inherit !important;
+}
+.get_a_quote .sub_btn{
+	background-image: linear-gradient(#f5702e, #eb3b18);
+	font-family: 'Century Gothic Bold';
+	color:#fff;
+	padding: .675rem .75rem;
+	border-radius: 20px;
+	border: none;
+	cursor: pointer;
+	letter-spacing: 1px;
+}
+.get_a_quote .sub_btn:focus{
+	outline: none;
+}
+.business-info {}
+.business-info .box-out {
+    background: #dee3e8;
+    padding: 5px;
+	transition:.5s;
+}
+.business-info .box-out:hover{
+	background: #f05523;
+	transition:.5s;
+}
+.business-info .box-out:hover .box-in:after{
+	border-top: 16px solid #f05523;
+	transition:.5s;
+}
+.business-info .box-in {
+    background: #fff;
+    height: 100%;
+    padding: 10px;
+	position: relative;
+	max-height: 110px;
+	overflow: hidden;
+}
+.business-info .box-in:after {
+    content: '';
+    position: absolute;
+    top: 0;
+    right: 0;
+    border-top: 16px solid #dee3e8;
+    border-left: 16px solid white;
+    width: 0;
+	transition:.5s;
+}
+.business-info .box-in h1 {
+	font-family: 'Century Gothic Bold';
+}
+.section-padding h2, .our-clients h2{
+	color:#000;
+}
+.our-clients p{
+	width: 70%;
+	margin: 0 auto;
+}
+.business-info .box-in p {
+    margin: 0;
+    color: #747474;
+	line-height: initial;
+	font-family: 'Raleway Regular';
+	font-size: 14px;
+}
+.disaster-recovery{
+    padding-left:110px;
+}
+.disaster-recovery > h3 {
+	font-weight: 400;
+    margin-bottom: 20px;
+	margin-bottom: 10px;
+	line-height: 1.4;
+	font-size: 2rem;
+}
+.bc_service {}
+.business-continuity {}
+.business-continuity h3 {
+	color: #ee471e;
+	font-weight: 400;
+}
+.disaster-recovery p{
+	font-size: 15px;
+	line-height: 1.7;
+}
+.business-continuity p {
+	text-align: justify;
+    color: #363636;
+	margin: 0;
+}
+
+.recovery-ser_img img {
+	width: 100%;
+}
+.service-bg {
+	background-image: url("img/service-bg.jpg");
+}
+.bcp_service {
+    padding: 50px 0;
+}
+.bcp_service h3 {
+    text-align: center;
+	margin-bottom: 30px;
+	font-size: 2.2rem;
+}
+.service-content {
+    padding: 0 10px;
+}
+.service-content h5 {
+	margin: 10px 0;
+	font-family: 'Century Gothic Bold';
+}
+.service-content p {
+    color: #363636;
+	font-size: 15px;
+	line-height: 1.7;
+	margin: 0;
+	font-family: 'Raleway Regular';
+}
+.bcp_service h2{	
+	font-size: 140px;
+	font-weight: bold;	
+    -webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	font-family: 'Georgia Bold';
+	color:#f05523;
+	background-position: center;
+	text-shadow: 5px 1px 9px rgba(240,85,35,.2);
+}
+.bcp_service .a_text{
+    background-image: url(img/a.jpg);
+}
+.bcp_service .s_text{
+    background-image: url(img/s.jpg);
+}
+.bcp_service .t_text{
+    background-image: url(img/t.jpg);
+}
+
+.d-flex {
+	display: flex;
+}
+.recovery-planing-outer{
+	background-image: url(img/recovery_planning_bg.jpg);
+	background-repeat: no-repeat;
+	padding: 60px 0px 60px 60px;
+}
+.recovery-planing {
+    margin-top: 10px;
+}
+.recovery-plan-img img {
+	border: 15px solid #fff;
+}
+.recovery-content {
+    display: inline-flex;
+    justify-content: center;
+    flex-direction: column;
+	padding-right: 90px;
+}
+.recovery-content h3 {
+	font-weight: 400;
+	margin-bottom: 20px;
+}
+.recovery-content p {
+	color: #363636;
+	font-size: 15px;
+	line-height: 1.7;
+}
+.dr-service {}
+.dr-service > h3 {
+    text-align: center;
+	font-size: 2.2rem;
+}
+.dr_service-bg img {
+	width:100%;
+}
+.dr_service_content {
+    position: absolute;
+    bottom: 0;
+    color: #fff;
+}
+
+.dr_service-bg {
+	position: relative;
+}
+.row.m--1 {
+    margin: 0px -.4rem;
+}
+.dr_service_overlay{
+	background: linear-gradient(to bottom, rgba(0,0,0,0) 0%,rgba(0,0,0,0.9) 100%);
+	background: -webkit-linear-gradient(to bottom, rgba(0,0,0,0) 0%,rgba(0,0,0,0.9) 100%);
+	background: -moz-linear-gradient(to bottom, rgba(0,0,0,0) 0%,rgba(0,0,0,0.9) 100%);
+	height: 100%;
+    width: 98%;
+	top: 0;
+    position: absolute;
+}
+.dr_service_content h5 {
+    position: relative;
+	display: inline-block;
+	font-size: 1.4rem;
+}
+.dr_service_content h5:after {
+    position: absolute;
+    content: "";
+    width: 40px;
+    height: 2px;
+    background: #fff;
+    bottom: -15px;
+    left: 0;
+}
+.dr_service_content p{
+	font-family: 'Raleway Regular';
+    font-size: 14px;
+	color: #fff;
+}
+.orabgemantra_bcp_dr {}
+.orabgemantra_bcp_dr h3 {
+    text-align: center;
+    font-weight: 400;
+	font-size: 2.2rem;
+}
+.orabgemantra_bcp_dr-content {
+    text-align: center;
+	padding-bottom: 50px;
+}
+span.orabgemantra_bcp_dr-img {
+    display: block;
+    margin-bottom: 20px;
+}
+.orabgemantra_bcp_dr-content h4 {
+	font-family: 'Century Gothic Bold';
+	font-size: 1.3rem;
+}
+.orabgemantra_bcp_dr-content p {
+    margin: 0;
+}
+.client-portfolio {}
+.client-description {
+    width: 70%;
+    margin: 0 auto;
+    text-align: center;
+}
+.client-description h3 {
+	font-weight: 400;
+	font-size: 2.2rem;
+}
+.footer-sec {
+    margin-top: 10px;
+	position: relative;
+}
+.footer-sec > img {
+	width: 100%;
+}
+.footerInner-content {
+    position: absolute;
+    margin: 0 auto;
+    left: 0;
+    right: 0;
+    top: 50%;
+    transform: translateY(-50%);
+}
+.footer-info {
+}
+.footer-info h3 {
+	color: #fff;
+	font-weight: 400;
+}
+.add-info span {
+    color: #fff;
+    font-size: 14px;
+    font-weight: 500;
+    display: inline-block;
+}
+.add-info span i {
+    width: 30px;
+    height: 30px;
+    background: #5aa828;
+    border-radius: 50%;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 18px;
+    margin-right: 10px;
+    float: left;
+}
+.footer-tag img {
+    margin-right: 15px;
+}
+
+button.slick-prev.slick-arrow, button.slick-next.slick-arrow{
+	background-color:#808080;
+	width: 30px;
+	height:30px;
+	z-index: 9;
+    position: absolute;
+}
+.slick-prev:after, .slick-next:after{
+	content: "";
+    position: absolute;
+    width: 12px;
+    height: 12px;
+    top: 9px;
+    border-top: 2px solid #fff;
+    border-right: 2px solid #fff;
+}
+.slick-prev:after{
+	transform: rotate(-135deg);
+	left: 12px;
+}
+.slick-next:after{
+	transform: rotate(45deg);
+	left: 7px;
+}
+
+@media only screen and (min-width : 320px) and (max-width : 575px){
+	.slider-sec > img{display: none;}
+	.sliderInner-content{position: static;background-color: #f0f1f1; padding: 20px 0px;}
+	.slider-content h1{font-size: 1.5rem;line-height: 1.4;}
+	.email-info{text-align: left !important;}
+	.email-info a{padding-top: 10px;}
+	.slider-content h1 br, .recovery-content h3 br{display: none;}
+	.slider-content p{font-size: 14px;}
+	.disaster-recovery{padding:0px 15px}
+	.disaster-recovery > h3{font-size:1.5rem}
+	.recovery-planing-outer{background: none;padding:0px;}
+	.recovery-content{padding: 0px 15px;}
+	.recovery-content h3{font-size: 1.5rem;}
+	.dr_service-bg{margin-bottom:10px;}
+	.orabgemantra_bcp_dr h3{font-size:1.5rem;}
+	.orabgemantra_bcp_dr-content h4{font-size: 1.2rem;}
+	.footer-sec > img{display:none;}
+    .footerInner-content{position: static;background-color: #2d2d2d;transform: inherit;padding: 30px 0px;}
+    /*.footer-info h3 {color: #000;}
+    .add-info span {color: #000;}
+    .add-info span i{color: #fff;}*/
+    .footer-info h3{font-size: 1.5rem;}
+    .footer-info h3 br{display: none;}
+    .add-info span{padding-top: 10px;}
+    .clients{width: 80%;margin: 0 auto;}
+    .client-description{width: 100%;}
+    .client-description h3, .business-continuity h3, .dr-service > h3{font-size:1.5rem}
+    .business-continuity p{margin-bottom: 30px;}
+    .business-info .box-in h1{font-size: 2rem;}
+	.our-clients p{width: 90%;margin: 0 auto;}
+}
+
+@media only screen and (min-width : 768px) and (max-width : 1024px){
+    .slider-content h1{font-size:1.8rem}
+    .slider-content h1 br{display: none;}
+    .slider-content p{font-size: 14px;}
+    .get_a_quote h2{font-size:1.8rem;}
+    .get_a_quote span{font-size: 14px;}
+    .get_a_quote .form-group{margin-bottom: .5rem;}
+    .get_a_quote .form-group .form-control{padding: .475rem .75rem;font-size: 12px;}
+    .slider-sec > img{position: absolute;}
+    .sliderInner-content{position: static;padding: 20px 0px;}
+    .captcha_img img{height: 36px;}
+    .get_a_quote .sub_btn{padding: .475rem .75rem;}
+    .business-info .box-in{min-height: 100px; max-height: 100px;}
+    .disaster-recovery{width: 100% !important; margin: 0 auto !important; padding: 0px 15px !important;}
+    .disaster-recovery > h3{font-size:1.8rem;}
+    .business-info .box-in h1{font-size: 2rem;}
+    .bc_service_right{}
+    .recovery-content h3 br{display: none;}
+    .recovery-planing-outer{background-size: cover;padding: 15px;}
+    .recovery-content h3{color:#fff}
+    .recovery-content p{color: #fff;}
+    .orabgemantra_bcp_dr h3{font-size: 1.8rem;}
+    .dr-service > h3{font-size: 1.8rem;}
+    .orabgemantra_bcp_dr-content h4{font-size: 1.1rem;}
+    .orabgemantra_bcp_dr-content p{font-size: .9rem;}
+    .client-description h3{font-size: 1.8rem;}
+    .footer-info h3{font-size: 1.5rem;}
+    .footer-info h3 br{ display: none;}
+    .footer-sec > img{ display: none}
+    .footerInner-content{position: static;background-color: #2d2d2d;transform: inherit;padding: 30px 0px;}
+	.our-clients p{width: 90%;margin: 0 auto;}
+	
+}

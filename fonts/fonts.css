@@ -1,0 +1,83 @@
+@font-face {
+    font-family: Segoe UI;
+    src: url(segoe-light.ttf);
+    font-weight: 100;
+    font-style: normal
+}
+
+@font-face {
+    font-family: Segoe UI;
+    src: url(segoe-light-italic.ttf);
+    font-weight: 100;
+    font-style: italic
+}
+
+@font-face {
+    font-family: Segoe UI;
+    src: url(segoe-regular.ttf);
+    font-weight: 400;
+    font-style: normal
+}
+
+@font-face {
+    font-family: Segoe UI;
+    src: url(segoe-regular-italic.ttf);
+    font-weight: 400;
+    font-style: italic
+}
+
+@font-face {
+    font-family: Segoe UI;
+    src: url(segoe-medium.ttf);
+    font-weight: 500;
+    font-style: normal
+}
+
+@font-face {
+    font-family: Segoe UI;
+    src: url(segoe-medium-italic.ttf);
+    font-weight: 500;
+    font-style: italic
+}
+
+@font-face {
+    font-family: Segoe UI;
+    src: url(segoe-semibold.ttf);
+    font-weight: 600;
+    font-style: normal
+}
+
+@font-face {
+    font-family: Segoe UI;
+    src: url(segoe-semibold-italic.ttf);
+    font-weight: 600;
+    font-style: italic
+}
+
+@font-face {
+    font-family: Segoe UI;
+    src: url(segoe-bold.ttf);
+    font-weight: 700;
+    font-style: normal
+}
+
+@font-face {
+    font-family: Segoe UI;
+    src: url(segoe-bold-italic.ttf);
+    font-weight: 700;
+    font-style: italic
+}
+
+@font-face {
+    font-family: Segoe UI;
+    src: url(segoe-black.ttf);
+    font-weight: 800;
+    font-style: normal
+}
+
+@font-face {
+    font-family: Segoe UI;
+    src: url(segoe-black-italic.ttf);
+    font-weight: 800;
+    font-style: italic
+}

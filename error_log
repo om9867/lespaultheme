@@ -1,0 +1,165 @@
+[15-Mar-2018 03:14:56 America/Chicago] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[15-Mar-2018 03:14:56 America/Chicago] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[15-Mar-2018 03:14:56 America/Chicago] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[15-Mar-2018 03:14:56 America/Chicago] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[15-Mar-2018 03:14:56 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so: undefined symbol: third_arg_force_ref in Unknown on line 0
+[15-Mar-2018 03:14:56 America/Chicago] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[15-Mar-2018 03:14:56 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[15-Mar-2018 03:14:56 America/Chicago] PHP Deprecated:  Directive 'register_globals' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[15-Mar-2018 03:14:56 America/Chicago] PHP Fatal error:  Call to undefined function wm_option() in /home4/orange/orangemantra.com/wp-content/themes/lespaul-child/header.php on line 6
+[25-Mar-2018 04:41:42 America/Chicago] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[25-Mar-2018 04:41:42 America/Chicago] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[25-Mar-2018 04:41:42 America/Chicago] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[25-Mar-2018 04:41:42 America/Chicago] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[25-Mar-2018 04:41:42 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so: undefined symbol: third_arg_force_ref in Unknown on line 0
+[25-Mar-2018 04:41:42 America/Chicago] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[25-Mar-2018 04:41:42 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[25-Mar-2018 04:41:42 America/Chicago] PHP Deprecated:  Directive 'register_globals' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[25-Mar-2018 04:41:42 America/Chicago] PHP Fatal error:  Call to undefined function wm_option() in /home4/orange/orangemantra.com/wp-content/themes/lespaul-child/header.php on line 6
+[27-Mar-2018 22:11:16 America/Chicago] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[27-Mar-2018 22:11:16 America/Chicago] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[27-Mar-2018 22:11:16 America/Chicago] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[27-Mar-2018 22:11:16 America/Chicago] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[27-Mar-2018 22:11:16 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so: undefined symbol: third_arg_force_ref in Unknown on line 0
+[27-Mar-2018 22:11:16 America/Chicago] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[27-Mar-2018 22:11:16 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[27-Mar-2018 22:11:16 America/Chicago] PHP Deprecated:  Directive 'register_globals' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[27-Mar-2018 22:11:16 America/Chicago] PHP Fatal error:  Call to undefined function wm_option() in /home4/orange/orangemantra.com/wp-content/themes/lespaul-child/header.php on line 6
+[28-Mar-2018 21:45:14 America/Chicago] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[28-Mar-2018 21:45:14 America/Chicago] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[28-Mar-2018 21:45:14 America/Chicago] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[28-Mar-2018 21:45:14 America/Chicago] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[28-Mar-2018 21:45:14 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so: undefined symbol: third_arg_force_ref in Unknown on line 0
+[28-Mar-2018 21:45:14 America/Chicago] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[28-Mar-2018 21:45:14 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[28-Mar-2018 21:45:14 America/Chicago] PHP Deprecated:  Directive 'register_globals' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[28-Mar-2018 21:45:14 America/Chicago] PHP Fatal error:  Call to undefined function wm_option() in /home4/orange/orangemantra.com/wp-content/themes/lespaul-child/header.php on line 6
+[29-Mar-2018 04:21:52 America/Chicago] PHP Warning:  PHP Startup: magickwand: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[29-Mar-2018 04:21:52 America/Chicago] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[29-Mar-2018 04:21:52 America/Chicago] PHP Warning:  PHP Startup: PDO: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[29-Mar-2018 04:21:52 America/Chicago] PHP Warning:  PHP Startup: pdo_sqlite: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[29-Mar-2018 04:21:52 America/Chicago] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20060613/sqlite.so: undefined symbol: third_arg_force_ref in Unknown on line 0
+[29-Mar-2018 04:21:52 America/Chicago] PHP Warning:  PHP Startup: pdo_mysql: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[29-Mar-2018 04:21:52 America/Chicago] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20060613
+PHP    compiled with module API=20090626
+These options need to match
+ in Unknown on line 0
+[29-Mar-2018 04:21:52 America/Chicago] PHP Deprecated:  Directive 'register_globals' is deprecated in PHP 5.3 and greater in Unknown on line 0
+[29-Mar-2018 04:21:52 America/Chicago] PHP Fatal error:  Call to undefined function wm_option() in /home4/orange/orangemantra.com/wp-content/themes/lespaul-child/header.php on line 6

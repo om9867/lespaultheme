@@ -1,0 +1,61 @@
+section#ecom-banner{width: 100%; display: block;}
+section#ecom-banner .top-ecom-banner{display: block; position: relative;}
+section#ecom-banner .top-ecom-banner .banner-overlay-content{position: absolute; left: 80px; top: 40%; transform: translate(0, -40%); width: auto;}
+section#ecom-banner .top-ecom-banner img{width: 100%; display: block;}
+section.ecommerce-trend-list{width: 100%; display: block;}
+section.ecommerce-trend-list ul{margin: 0; padding: 0; list-style: none; -js-display: flex;display: -ms-flexbox;display: flex;-ms-flex-flow: row wrap; flex-flow: row wrap; -ms-flex-align: flex-start;align-items: flex-start; -ms-flex-pack: justify;justify-content: space-between;-ms-flex-align: center;-webkit-align-items: center;-webkit-box-align: center;}
+section.ecommerce-trend-list ul li{width: 47.5%; display: inline-block; vertical-align: top; margin-top: 30px;}
+section.ecommerce-trend-list ul li .content img{width: 100%; float: left;padding: 15px; border: 2px solid #cecece; margin-bottom:20px; border-radius: 10px;-webkit-border-radius: 10px;-moz-border-radius: 10px;}
+section.ecommerce-trend-list ul:after{display:none;}
+section.ecommerce-trend-list ul li .title h2{font-family: 'Ubuntu', sans-serif; font-weight: 700; font-size: 22px; margin-bottom: 25px; width: auto; display: inline-block; clear: both; padding: 12px 10px; background: #ff5200; position: relative; color: #fff;}
+section.ecommerce-trend-list ul li .title h2:after { width: 0; height: 0; border-style: solid; border-width: 50px 50px 0 0; border-color: #ff5200 transparent transparent transparent;content: ''; position: absolute; right: -50px; top: 0;}
+section.ecommerce-trend-list ul li .content p {color: #171717; font-family: 'Lato', sans-serif; font-weight: 400; font-size: 18px; letter-spacing: 0.15px; width: 100%; float: left; min-height: 245px; text-align: justify;}
+section.ecommerce-trend-list ul li .title h2:before {position: absolute; content: ''; width: 12px;height: 100%; background: #000; right: -50px; top: 0; transform: skew(-45deg, 0deg); -webkit-transform: skew(-45deg, 0deg);-ms-transform: skew(-45deg, 0deg);-moz-transform: skew(-45deg, 0deg);-o-transform: skew(-45deg, 0deg);}
+section.ecommerce-trend-list ul li:last-child{width: 100%; margin-bottom: 50px;}
+section.ecommerce-trend-list ul li:last-child .content{display: block;height: 100%; position: relative; float: left;width: 100%;}
+section.ecommerce-trend-list ul li:last-child .content img {width: 47.5%;}
+section.ecommerce-trend-list ul li:last-child .content p {width: 47.5%;float: right; margin: 0; background: #b5acac38;padding: 53px; color: #000;}
+section#ecom-banner .top-ecom-banner-content p{color: #171717; font-family: 'Lato', sans-serif; font-weight: 400; font-size: 18px; letter-spacing: 0.15px; position: relative; text-align: center;}
+section#ecom-banner .top-ecom-banner-content p:after {height: 1px;width: 100%;content: '';position: absolute;bottom: -40px;z-index: 89;left: 0;background: #cecece;}
+section#ecom-banner .top-ecom-banner .banner-overlay-content h1 {font-family: 'Ubuntu', sans-serif; font-size: 40px; font-weight: 700;}
+section#ecom-banner .top-ecom-banner-content {margin: 6rem 0 4rem;}
+section.staying-top-cta .last_Sec{background: #4f53ac;text-align: center; padding: 15px; color: #fff;}
+section.staying-top-cta .last_Sec h4{ font-size: 25px; line-height: 1.5em;}
+section.staying-top-cta .last_Sec .ctaExpert a{border: 1px solid #fff; display: inline-block; padding: 10px 20px; margin: 25px 0 8px; background-color: #6a9cf5; color: #fff; font-size: 18px;transition: all 0.4s;}
+section.staying-top-cta .last_Sec .ctaExpert a:hover{background-color: #fff;color: #333;}
+
+
+@media(max-width: 767px)
+{
+  section.ecommerce-trend-list ul li{width: 100%;}
+  section.ecommerce-trend-list ul li .title h2:after{border-width: 38px 38px 0 0;  right: -38px;}
+  section#ecom-banner .top-ecom-banner-content {margin: 2rem 0 2.5rem;}
+  section.ecommerce-trend-list ul li:last-child .content img, section.ecommerce-trend-list ul li:last-child .content p{width: 100%; padding: 20px;}
+  section.ecommerce-trend-list ul li .title h2 {font-size: 12px !important;}
+  section#ecom-banner .top-ecom-banner-content p {font-size: 16px; text-align: justify;}
+  section#ecom-banner .top-ecom-banner .banner-overlay-content{left: 15px;width: auto;top: 30%;}
+  section#ecom-banner .top-ecom-banner .banner-overlay-content h1{font-size: 11px; margin: 0; width: 50%;}
+  section.ecommerce-trend-list ul li .content p{font-size: 16px; text-align: justify;    min-height: auto;}
+}
+
+@media(min-width: 768px) and (max-width: 1023px)
+{
+  section.ecommerce-trend-list ul li .title h2{font-size: 15px;}
+  section.ecommerce-trend-list ul li .title h2:after{ border-width: 42px 50px 0 0;}
+  section#ecom-banner .top-ecom-banner .banner-overlay-content{left: 40px;}
+  section#ecom-banner .top-ecom-banner .banner-overlay-content h1{    font-size: 22px; width: 50%;}
+  section.ecommerce-trend-list ul li:last-child .content img, section.ecommerce-trend-list ul li:last-child .content p{width: 100%}
+  section.ecommerce-trend-list ul li .content p{    min-height: 370px;}
+}
+
+@media(min-width: 1024px) and (max-width: 1199px)
+{
+  section#ecom-banner .top-ecom-banner .banner-overlay-content{left: 15px;}
+  section#ecom-banner .top-ecom-banner .banner-overlay-content h1{font-size: 25px;}
+}
+
+
+@media(min-width: 1200px) and (max-width: 1399px)
+{
+  section#ecom-banner .top-ecom-banner .banner-overlay-content h1{font-size: 28px;}
+}
